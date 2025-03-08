@@ -1,0 +1,32 @@
+﻿l_german:
+
+  #################### TOOLTIP #################### 
+  greener_grass_campaign_events_1_tt: "Solange dieses Dekret in diesem Staat aktiv ist, wird es weiterhin alle 6 Monate die Migration fördern."
+  greener_grass_campaign_events_2_tt: "Die Koloniale Umsiedlung funktioniert nur in nicht eingegliederten Staaten."
+  greener_grass_campaign_events_3_tt: "Ein Teil der lokalen Bevölkerung wurde in spezielle Bezirke innerhalb des Staates zwangsumgesiedelt, um Platz für nationale Siedler zu schaffen, doch viele von ihnen starben infolge der entstandenen Gewalt."
+
+  #################### DECREES ####################
+  decree_greener_grass_campaign_great_revision:0 "Koloniale Umsiedlung"
+  decree_greener_grass_campaign_great_revision_desc:0 "Fördert diesen Staat als attraktives Ziel für nationale Siedler. Dieses Dekret löst alle 6 Monate ein Ereignis aus, das einige Bevölkerungsteile in den gewählten nicht eingegliederten Staat umsiedelt."
+
+  decree_population_replacement_great_revision:0 "Koloniale Segregation"
+  decree_population_replacement_great_revision_desc:0 "Ermutigt repressive Maßnahmen, um die lokale Bevölkerung zur Abwanderung aus dem Staat zu zwingen und Platz für nationale Siedler zu schaffen."
+
+  #################### EVENTS #################### 
+  greener_grass_campaign_events.1:0 "Die Migrationskampagne"
+  greener_grass_campaign_events.1.t:0 "Die Migrationskampagne"
+  greener_grass_campaign_events.1.desc:0 "Die Migrationskampagne"
+  greener_grass_campaign_events.1.d:0 "Nachdem wir unser Dekret zur Förderung der Migration in unseren nicht eingegliederten Staat in [SCOPE.sCountry('move_to_state').GetAdjective] [SCOPE.sState('move_to_state').GetStateRegion.GetName] erlassen haben, ziehen zahlreiche Menschen aus unserer Nation dorthin. Dies wird unsere Kolonisationsbemühungen verstärken."
+  greener_grass_campaign_events.1.f:0 "'Ein neues Land... direkt dort drüben, jenseits des Meeres. Hinter dieser riesigen blauen Weite wartet eine bessere Zukunft auf uns, ein besseres Leben. Ich verspreche dir, meine Liebe, dort werden wir ein neues Kapitel unseres Lebens beginnen.'"
+  greener_grass_campaign_events.1.a:0 "Ein neues, reiches und fruchtbares Land für unsere Nation!"
+  #greener_grass_campaign_events.1.b:0 "."
+  #greener_grass_campaign_events.1.c:0 "."
+  
+  greener_grass_campaign_events.2:0 "Koloniale Segregation"
+  greener_grass_campaign_events.2.t:0 "Koloniale Segregation"
+  greener_grass_campaign_events.2.desc:0 "Koloniale Segregation"
+  greener_grass_campaign_events.2.d:0 "Die Polizeikräfte in [SCOPE.sCountry('state_pop_replacement').GetAdjective] [SCOPE.sState('state_pop_replacement').GetStateRegion.GetName] haben mit der Zwangsräumung begonnen, doch viele Einheimische widersetzen sich gewaltsam der Umsiedlung."
+  greener_grass_campaign_events.2.f:0 "'Und sie wagen es, sich zu widersetzen? Sie sollten uns dankbar sein, dass wir Wohlstand und Fortschritt in diese trostlosen Länder bringen! Was ist mit UNSERER Freiheit, selbst zu entscheiden, was mit dem Land geschieht, das wir gerade erobert haben?'"
+  greener_grass_campaign_events.2.a:0 "Diese armen Dorfbewohner wissen nicht, was das Beste für die Nation ist."
+  #greener_grass_campaign_events.1.b:0 "."
+  #greener_grass_campaign_events.1.c:0 "."

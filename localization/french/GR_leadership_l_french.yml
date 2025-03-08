@@ -1,0 +1,49 @@
+﻿l_french:
+
+	#################### CHARACTER INTERACTION: TOOLTIPS ON INTERACTION ####################
+	#grant_leadership_to_politician:0 "Grant Party Leadership"
+	resign_from_office_politician:0 "Démissionner de la direction du parti"
+	resign_from_office_politician_tt: "Ce personnage abandonnera la direction du parti, laissant un autre personnage diriger le groupe d'intérêt. L'idéologie du nouveau leader dépendra de la pression que le groupe d'intérêt recevra des mouvements politiques."
+	politician_progaganda_campaign_trait_tt: "Si ce personnage possède déjà l'un des traits de cet événement, il n'obtiendra aucun trait supplémentaire."
+
+	politician_progaganda_campaign_pro: "Lancer une campagne de propagande"
+	politician_progaganda_campaign_against: "Lancer une campagne de discrédit"
+
+	politician_progaganda_campaign_pro_tt: "Lancer une campagne de propagande pour augmenter la popularité de ce personnage, en fonction des efforts de la campagne, le résultat sera plus ou moins impactant. De plus, le personnage peut avoir des chances d'obtenir certains traits."
+	politician_progaganda_campaign_against_tt: "Lancez une campagne de propagande pour discréditer ce personnage, en fonction des efforts de la campagne, le résultat sera plus ou moins impactant."
+
+	#################### MODIFIERS ####################
+
+	great_revision_politician_progaganda_campaign_pro:0 "Campagne de propagande"
+	great_revision_politician_progaganda_campaign_against:0 "Campagne de discrédit"
+
+	great_revision_politician_progaganda_campaign_pro_success_1:0 "Orateur des masses"
+	great_revision_politician_progaganda_campaign_pro_success_2:0 "Opérateur politique"
+	great_revision_politician_progaganda_campaign_pro_success_3:0 "Discours contradictoire"
+
+	great_revision_politician_progaganda_campaign_against_success_1:0 "Personnage discrédité"
+	great_revision_politician_progaganda_campaign_against_success_2:0 "Machine à boue"
+
+	politician_progaganda_campaign.1:0 "La campagne de propagande"
+	politician_progaganda_campaign.1.t:0 "La campagne de propagande"
+	politician_progaganda_campaign.1.desc:0 "La campagne de propagande"
+	politician_progaganda_campaign.1.d:0 "La campagne visant à accroître la popularité de [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] a commencé. Nous devons maintenant choisir de poursuivre une voie proactive ou une stratégie plus agressive."
+	politician_progaganda_campaign.1.f:0 "C'est exactement ça, mon ami. Je le dis ici et je ne le nie pas ici, [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] est le politicien dont nous avons besoin, l'homme qu'il faut au bon moment !'\n\n\"N'est-il pas un peu trop exubérant pour prendre les rênes du parti ?'\n\n\'Pourquoi diable dis-tu ça ?'\n\n\'Ami... l'autre jour, il a littéralement commencé par dire: je mènerai MON parti à la grandeur, en dirigeant notre nation... pour le bien de l'Empire... euh, je voulais dire, de la République...'"
+	politician_progaganda_campaign.1.a:0 "Laissons [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] utiliser sa dialectique pour parler à la foule."
+	politician_progaganda_campaign.1.b:0 "[SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] doit concentrer son discours sur les problèmes qui affligent notre pays."
+	politician_progaganda_campaign.1.c:0 "[SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] exagérons son discours, en espérant qu'il ne s'emporte pas trop."
+
+	politician_progaganda_campaign.2:0 "La campagne de discrédit"
+	politician_progaganda_campaign.2.t:0 "La campagne de discrédit"
+	politician_progaganda_campaign.2.desc:0 "La campagne de discrédit"
+	politician_progaganda_campaign.2.d:0 "[SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] est devenu un personnage trop inconfortable pour notre pays, le temps est venu de veiller à ce qu'il n'ait plus de tels adeptes."
+	politician_progaganda_campaign.2.f:0 "La boue, la boue, la boue, j'ADORE la boue, surtout quand j'en jette au visage des gens."
+	politician_progaganda_campaign.2.a:0 "Commençons une campagne de diffamation contre [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName]."
+	politician_progaganda_campaign.2.b:0 "Ce n'est pas suffisant ! Assurez-vous que même sa mère ne veuille plus rien avoir à faire avec lui !"
+
+
+
+
+
+
+

@@ -1,0 +1,170 @@
+﻿l_french:
+ 
+  ########################### ITALIAN UNIFICATION: JE  #######################################  
+  je_emilian_trade_league: "La Ligue commerciale émilienne"
+	je_emilian_trade_league_status: "Les duchés émiliens soutiennent l'unification. Si nous unifions nos marchés, nous pourrons créer une intégration économique et politique"
+	je_emilian_trade_league_reason: "Pendant l'ère de l'unification italienne, les duchés de Modène, Parme et Lucques se sont retrouvés dans une position complexe. Dirigés par différents monarques, ces territoires ont connu divers degrés de troubles et d'intrigues politiques.\n\nLe duché de Modène, sous le règne de la maison d'Este, a dû faire face à des dissensions internes alors que les appels à l'unification se faisaient de plus en plus forts. Parme, gouvernée par la maison de Bourbon, a également dû faire face à des conflits internes et à des pressions externes pour s'aligner sur les mouvements nationalistes italiens plus larges. Lucques, un duché plus petit, a dû faire face à des défis similaires sous le règne d'Elisa Bonaparte, la sœur de Napoléon.\n\nLes habitants de ces duchés nourrissaient des aspirations à l'indépendance et l'unité, aspirant à faire partie d'une nation italienne cohésive. Alors que les tensions montaient et que les sentiments révolutionnaires se répandaient, les duchés se trouvèrent soumis à des transformations politiques importantes qui façonnèrent leurs destins et le cours de l'unification italienne. "
+
+	je_tuscan_alliance: "L'alliance Piémont-Toscane"
+	je_tuscan_alliance_status: "La Toscane est un allié valable pour nos objectifs d'unification. Si nous renforçons notre relation, nous pourrons signer un traité de coopération militaire mutuelle."
+	je_tuscan_alliance_reason: "Avant l'unification italienne, la Toscane était le Grand-Duché indépendant de Toscane, gouverné par la dynastie des Habsbourg-Lorraine depuis 1737. C'était une région prospère avec Florence comme capitale culturelle. Après une brève interruption napoléonienne (1801-1814), elle fut restaurée au Congrès de Vienne.\n\nSous le Grand-Duc Léopold II, la Toscane connut un libéralisme et un progrès relatifs, mais les sentiments nationalistes se développèrent dans les années 1840. Les révolutions de 1848 ont conduit à une constitution, bien que Léopold II ait fui plus tard et soit revenu avec le soutien de l'Autriche, mettant en œuvre des politiques conservatrices. En 1859, pendant la deuxième guerre d'indépendance italienne, le sentiment toscan était en faveur de l'unification. Léopold II a abdiqué en avril et, en 1860, la Toscane a voté pour rejoindre le royaume de Sardaigne, devenant ainsi une partie de l'Italie nouvellement unifiée. "
+
+	je_two_sicilies_campaign: "L'expédition des Mille"
+	je_two_sicilies_campaign_status: "Nous ne pouvons pas intervenir directement dans les territoires des Bourbons, mais nous pouvons financer les activités des rebelles pour pousser le gouvernement des Deux-Siciles à la chute."
+	je_two_sicilies_campaign_reason: "Le Royaume des Deux-Siciles a connu des temps tumultueux pendant la période précédant l'expédition des Mille. Le Royaume, créé en 1816 après le Congrès de Vienne, englobait les régions de Naples et de Sicile, chacune avec ses propres défis et structures sociétales.\n\nAlors que les tensions s'intensifiaient au milieu du XIXe siècle avec la ferveur de l'unification italienne, les dirigeants des Deux-Siciles luttaient pour maintenir le contrôle au milieu des appels croissants à l'indépendance et à l'autodétermination. Le mécontentement du peuple envers la monarchie au pouvoir et le désir d'une Italie unifiée alimentèrent les mouvements et complots révolutionnaires, préparant le terrain pour les événements capitaux qui allaient se dérouler avec l'arrivée de Garibaldi et de ses Mille.\n\nLe Royaume des Deux-Siciles se trouvait à la croisée des chemins, son destin étant étroitement lié au mouvement d'unification italien plus vaste qui allait remodeler à jamais le paysage politique de la péninsule.
+
+  je_papal_state_campaign: "La guerre du pape"
+	je_papal_state_campaign_status: "Le gouvernement papal ne peut plus s'opposer à l'unification. Si nous veillons à ce que peu de grandes puissances n'interviennent, nous pourrons commencer la conquête de l'État pontifical."
+	je_papal_state_campaign_reason: "Les États pontificaux étaient des territoires du centre de l'Italie sous le contrôle souverain direct du pape. Au début du XIXe siècle, les États pontificaux ont dû faire face à des défis importants. Les guerres napoléoniennes ont conduit à l'occupation française et à l'abolition temporaire du régime pontifical. Après la défaite de Napoléon, le Congrès de Vienne a rétabli les États pontificaux en 1815. Cependant, les sentiments nationalistes croissants et les demandes d'unification avec d'autres États italiens ont conduit à des tensions croissantes.\n\nLe pape a résisté à ces pressions, les considérant comme des menaces à son pouvoir temporel, mais, dans les années suivantes, les États pontificaux sont devenus de plus en plus isolés à mesure que le mouvement d'unification italienne prenait de l'ampleur. En 1860, une grande partie du territoire pontifical avait été annexée par le royaume de Sardaigne, ne laissant que Rome et ses environs sous contrôle pontifical. Ce vestige persistera jusqu'en 1870, lorsque Rome est finalement tombée aux mains des forces italiennes, achevant le processus d'unification."
+
+	je_austria_hungary_campaign: "La reconquête de la Lombardie-Vénétie"
+	je_austria_hungary_campaign_status: "Le rêve italien est devenu réalité, mais il reste encore des territoires sous contrôle étranger. Il est temps de déclarer notre revendication sur ces terres contre l'Autriche."
+	je_austria_hungary_campaign_reason: "Pendant le processus d'unification italienne, la conquête de la Lombardie-Vénétie fut une étape cruciale. En 1859, le Royaume de Sardaigne, dirigé par Victor Emmanuel II et soutenu par une alliance avec la France de Napoléon III, lança la Seconde Guerre d'Indépendance contre l'Empire autrichien, qui contrôlait la région.\n\nAprès les victoires aux batailles de Magenta et de Solférino, l'Autriche fut contrainte de céder la Lombardie à la France, qui la céda ensuite au Royaume de Sardaigne. En 1866, lors de la Troisième Guerre d'Indépendance, l'Italie s'allia à la Prusse, qui était en guerre avec l'Autriche. Malgré les défaites italiennes à Custoza et à Lissa, la victoire de la Prusse obligea l'Autriche à céder la Vénétie au Royaume d'Italie par le biais de la médiation française.\n\nAvec l'annexion de la Lombardie-Vénétie, l'Italie fit un pas décisif vers l'unification, posant les bases d'un pays enfin indépendant et uni."
+
+  ########################### ITALIAN UNIFICATION: MODIFIERS  #######################################
+	great_revision_italian_unification_emilian_trade_agreement:0 "Le syndicat piémontais-émilien".
+	great_revision_italian_unification_emilian_integration:0 "L'intégration piémontaise-émilienne".
+	great_revision_italian_unification_tuscany_treaty:0 "Le traité piémontais-toscan".
+	great_revision_italian_unification_tuscany_alliance:0 "L'alliance piémontaise-toscane".
+	great_revision_italian_unification_two_sicilies_rebels:0 "Les rebelles pro-unification siciliens ont été financés".
+	great_revision_italian_unification_papal_state_war:0 "La guerre du pape".
+	great_revision_italian_unification_papal_state_war_end:0 "La brèche de Porta Pia".
+	great_revision_italian_unification_austria_hungary_war_ita:0 "Guerre sur le territoire national".
+	great_revision_italian_unification_austria_hungary_war_aus:0 "Guerre sur le territoire étranger".
+	great_revision_italian_unification_austria_hungary_war_end:0 "La reconquête de la Lombardie-Vénétie".
+	great_revision_italian_unification_austria_hungary_war_maneuvers:0 "Jeu diplomatique contre l'Autriche".
+
+  ########################### ITALIAN UNIFICATION: MODIFIERS AI STRATEGIES #######################################
+  risorgimento_war_of_the_pope: "ne veut pas être impliqué dans la guerre du pape"
+  risorgimento_war_of_the_kaiser: "ne veut pas être impliqué dans la guerre du Kaiser"
+  risorgimento_war_of_the_kaiser_prussia: "veut soutenir l'Italie dans la guerre du Kaiser"
+    
+  
+  ########################### ITALIAN UNIFICATION: BUTTONS #######################################
+  je_risorgimento_sardinia_path_button_event_1: "La Ligue commerciale émilienne"
+  je_risorgimento_sardinia_path_button_event_1_desc: "Les duchés de Modène, Parme et Lucques ont longtemps cherché à obtenir leur indépendance du joug autrichien, nous devons investir des ressources et de l'influence sur leur territoire pour nous assurer de les placer sous notre coupe."
+
+  je_risorgimento_sardinia_path_button_event_2: "La Ligue commerciale émilienne"
+  je_risorgimento_sardinia_path_button_event_2_desc: "Grâce au renforcement économique généré, les trois duchés font de fait partie du marché piémontais. Afin de mener à bien l'intégration, nous devons maintenant procéder à l'intégration politique et territoriale."
+
+  je_risorgimento_sardinia_path_button_event_3: "L'Alliance Piémont-Toscane"
+  je_risorgimento_sardinia_path_button_event_3_desc: "Nous devons accroître notre influence sur le territoire toscan pour garantir que toutes les forces pro-unification soient prêtes lorsque nous devrons agir."
+
+  je_risorgimento_sardinia_path_button_event_4: "L'Alliance Piémont-Toscane"
+  je_risorgimento_sardinia_path_button_event_4_desc: "Le Duché de Toscane est un excellent allié et partenaire économique. Nous devons renforcer nos liens pour avancer ensemble vers l'unification."
+
+  je_risorgimento_sardinia_path_button_event_5: "L'expédition des mille"
+  je_risorgimento_sardinia_path_button_event_5_desc: "Le gouvernement des Bourbons est resté longtemps ancré dans les anciennes gloires restaurationnistes. Son inaction politique a conduit à une paralysie totale de la péninsule italienne. Si nous voulons réunifier l'Italie, nous devons faire en sorte que les masses du royaume se rebellent contre leurs propres maîtres. Nous financerons les activités des rebelles, afin de faire tomber le gouvernement des Bourbons."
+
+    je_risorgimento_sardinia_path_button_event_6: "Stimuler le sentiment pro-unification"
+  je_risorgimento_sardinia_path_button_event_6_desc: "Nous financerons les activités des rebelles pour générer de l'agitation dans la péninsule. Chaque effort est décisif pour atteindre notre objectif, et nous ne nous arrêterons pas tant que le drapeau de la Savoie ne flottera pas sur Naples."
+
+  je_risorgimento_sardinia_path_button_event_7: "La guerre du pape"
+  je_risorgimento_sardinia_path_button_event_7_desc: "Les États pontificaux constituent un formidable obstacle à l'unification italienne, s'accrochant au pouvoir tout en étouffant les aspirations du peuple. L'influence du pape sur les questions temporelles a longtemps contrecarré les rêves d'une nation unifiée. Pour démanteler ce bastion ecclésiastique, nous devons rallier les patriotes et déclencher une campagne fervente contre l'autorité cléricale. Avec des ressources adéquates et un soutien indéfectible, nous pouvons donner du pouvoir aux insurgés, répandant la dissidence dans tous les territoires sous contrôle papal. Ce soulèvement forcera le gouvernement pontifical à abandonner son emprise. En éradiquant l'autorité de l'Église sur les affaires de l'État, nous ouvrons la voie à une Italie souveraine, libre de la domination étrangère et des forces réactionnaires, permettant à l'esprit d'unité de s'épanouir parmi notre peuple."
+
+  je_risorgimento_sardinia_path_button_event_8: "Le traité de Turin"
+  je_risorgimento_sardinia_path_button_event_8_desc: "En 1860, le traité de Turin marque un moment crucial dans l'histoire de l'unification italienne. Signé entre le Royaume de Sardaigne-Piémont et la France, cet accord sanctionne le transfert de souveraineté sur Nice et la Savoie. En échange, la France s'engage à soutenir l'expansion du Piémont contre les Autrichiens. Cette alliance stratégique est vitale pour renforcer le Piémont en tant que puissance militaire et politique. L'acte a non seulement consolidé le rôle de la France en tant qu'acteur clé du processus d'unification, mais a également jeté les bases d'une nouvelle Italie unie, libérant le pays de siècles de divisions territoriales."
+
+  je_risorgimento_sardinia_path_button_event_9: "Guerre avec l'État pontifical"
+  je_risorgimento_sardinia_path_button_event_9_desc: "L'invasion des États pontificaux par le Royaume de Sardaigne-Piémont a marqué un tournant décisif dans l'unification italienne. Alors que la guerre franco-prussienne affaiblissait le soutien français au pape, le gouvernement italien saisit l'occasion d'affirmer sa revendication sur Rome. L'armée italienne avança, rencontrant peu de résistance de la part des forces papales. Cette initiative audacieuse visait à intégrer Rome dans l'Italie nouvellement unifiée, répondant ainsi à l'aspiration de longue date des nationalistes italiens. La prise de Rome symbolisait non seulement la fin du pouvoir temporel pontifical, mais consolidait également le statut de l'Italie en tant que nation unifiée, Rome étant déclarée capitale, achevant ainsi un chapitre important de l'histoire de la nation."
+
+  je_risorgimento_sardinia_path_button_event_10: "La guerre du Kaiser"
+  je_risorgimento_sardinia_path_button_event_10_desc: "La conquête de la Lombardie-Vénétie par le Royaume de Sardaigne-Piémont a marqué une étape importante dans l'unification italienne. Après une alliance avec la France, Victor Emmanuel II et le Premier ministre Cavour ont lancé la deuxième guerre d'indépendance contre le contrôle autrichien sur la région. Les victoires clés de Magenta et de Solferino ont forcé l'Autriche à céder la Lombardie, tandis que la Vénétie est restée sous domination autrichienne. Ce succès a dynamisé le mouvement nationaliste italien et a démontré l'influence croissante de la Sardaigne dans la péninsule. En 1866, l'Italie s'est alliée à la Prusse dans la guerre austro-prussienne. Bien que les forces italiennes aient subi des défaites, la victoire de la Prusse a poussé l'Autriche à céder la Vénétie à l'Italie."
+
+  
+  ########################### ITALIAN UNIFICATION: EVENTS #######################################
+  great_revision_italian_unification.10.d:0 "Les vents du nationalisme ont commencé à souffler dans les États longtemps divisés de la péninsule italienne. [ROOT.GetCountry.GetAdjective] patriotes et érudits romantiques ont commencé à appeler à l'unification d'un seul État italien."
+  great_revision_italian_unification.10.f:0 ""Non, monsieur. Je ne suis pas un étranger, et je ne suis pas [ROOT.GetCountry.GetAdjectiveNoFormatting]. Je suis un Italien, et un Italien en Italie n'est jamais un étranger.""
+  great_revision_italian_unification.10.a:0 "L'Italie doit être sortie de l'oubli."
+  great_revision_italian_unification.10.b:0 "Nous ne nous laisserons pas abattre pour cela."
+
+  great_revision_italian_unification.1.t:0 "La Ligue commerciale piémontaise-émilienne"
+  great_revision_italian_unification.1.d:0 "Nos efforts dans les duchés émiliens ont permis une expansion rapide de notre influence. Il est désormais temps de consolider notre emprise économique par un traité douanier, qui sera la première étape de l'intégration ultérieure."
+  great_revision_italian_unification.1.f:0 "Les duchés d'Émilie font partie de notre marché économique grâce à un traité commercial historique. Nous avons éliminé les barrières commerciales qui entravaient autrefois les échanges économiques, créant ainsi un flux continu de biens et de ressources entre nos régions. Cet accord représente une avancée significative, car nous ouvrons la voie à une plus grande coopération économique et à une croissance mutuelle. Une étape cruciale vers une intégration plus profonde, permettant à nos industries de prospérer et à nos peuples de prospérer ensemble. Il marque un autre moment clé dans la vision plus large d'une Italie unifiée et interconnectée économiquement."
+  great_revision_italian_unification.1.a:0 "La monnaie d'abord... et le territoire ensuite."
+  great_revision_italian_unification.1.b:0 "aucun."
+
+  great_revision_italian_unification.2.t:0 "L'intégration piémontaise-émilienne"
+  great_revision_italian_unification.2.d:0 "Grâce au renforcement économique généré, les trois duchés font de fait partie du marché piémontais. Afin de mener à bien l'intégration, nous devons maintenant procéder à l'intégration politique et territoriale."
+  great_revision_italian_unification.2.f:0 ""C'est un fait, mon Seigneur, que désormais les duchés d'Émilie font partie de notre Royaume. Nous avons enfin libéré nos frères italiens des griffes autrichiennes ! Un pas de plus vers la Grande Unification ""
+  great_revision_italian_unification.2.a:0 "En avant vers l'unification !"
+  great_revision_italian_unification.2.b:0 "none."
+
+  great_revision_italian_unification.3.t:0 "Le traité Piémont-Toscane"
+  great_revision_italian_unification.3.d:0 "En signant cet accord d'amitié avec le gouvernement toscan, nous assurerons des relations solides alors que nous travaillons à un futur traité de coopération militaire."
+  great_revision_italian_unification.3.f:0 ""Piémontais, Toscans, Émiliens. Nous ne sommes que le premier pas vers l'avenir, le début d'un grand voyage qui façonnera notre destin. Un avenir dont le chemin est déjà balisé, un avenir destiné à nous réunir, non seulement avec nos frères du Sud, mais avec tous ceux qui partagent notre rêve, nos espoirs et nos valeurs.\n\nNous sommes ensemble, l'avant-garde d'une nouvelle ère, où chaque région, chaque ville et chaque cœur battront à l'unisson.\n\nEn avant, Savoie ! Pour la gloire de notre terre, pour l'honneur de notre peuple ! Allez, Italiens ! C'est le moment que nous attendions ! "Le temps est venu d'unir nos efforts, nos forces, notre courage. Marchons ensemble vers ce futur glorieux !"
+  great_revision_italian_unification.3.a:0 "À la vôtre, mon ami !"
+  great_revision_italian_unification.3.b:0 "none."
+
+  great_revision_italian_unification.4.t:0 "L'alliance piémontaise-toscane"
+  great_revision_italian_unification.4.d:0 "Nos relations avec le duché de Toscane se sont renforcées. Leur gouvernement soutient pleinement les Savoie dans leur unification, ce qui nous permet d'étendre notre influence dans toute la péninsule. Le moment est désormais venu de nous tourner vers le Sud."
+  great_revision_italian_unification.4.f:0 "En combinant nos ressources et nos forces militaires, nous avons renforcé notre position dans la région, assurant la stabilité et la sécurité des deux nations. Cela marque un tournant, où nos intérêts communs s'alignent pour le plus grand bien de nos peuples. Ensemble, nous avançons désormais avec un objectif commun, renforçant notre partenariat face aux défis et opportunités futurs.\n\nEt maintenant que nous avons un allié dans la péninsule, nous pouvons avancer vers les prochains plans pour notre unification."
+  great_revision_italian_unification.4.a:0 "En avant vers le sud de l'Italie !"
+  great_revision_italian_unification.4.b:0 "none."
+
+  
+ great_revision_italian_unification.5.t:0 "Rébellions dans le sud de l'Italie"
+  great_revision_italian_unification.5.d:0 "Nos agents nous informent de nombreuses émeutes qui ont éclaté dans différentes régions du sud de l'Italie. Des groupes armés s'organisent pour attaquer les troupes des Bourbons."
+  great_revision_italian_unification.5.f:0 "À ce moment-là, la porte du palais de Savoie s'ouvrit violemment, et un émissaire accourut et se mit à crier "Mon seigneur ! Mon seigneur ! ça a commencé ! Des centaines de personnes descendent dans la rue, s'arment du mieux qu'elles peuvent, prêtes à attaquer les bureaux du gouvernement dans de nombreuses villes. La révolution dans les Deux-Siciles ne fait que commencer !""
+  great_revision_italian_unification.5.a:0 "Tellement triste pour les Bourbons... Quoi qu'il en soit..."
+  great_revision_italian_unification.5.b:0 "aucun."
+
+  great_revision_italian_unification.6.t : « Les nationalistes italiens s'emparent des Deux-Siciles »
+  great_revision_italian_unification.6.d : « Inspirés par les appels à l'établissement d'une seule nation italienne, les rebelles nationalistes se sont emparés des Deux-Siciles et se sont engagés à l'unification de l'Italie sous la bannière de [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName]. »
+  great_revision_italian_unification.6.f: "En 1860, juste avant la prise de Naples, Giuseppe Garibaldi et ses forces avançaient rapidement dans le sud de l'Italie après une série de victoires contre l'armée des Bourbons. Alors que Garibaldi s'approchait de Naples, la tension dans la ville augmenta. Le roi François II, réalisant que ses forces s'affaiblissaient, s'enfuit de la capitale pour Gaeta, laissant Naples vulnérable. Les défenses de la ville étaient en désordre et sa population était divisée entre la loyauté envers les Bourbons et le soutien à l'unification. À l'approche de Garibaldi, de nombreux Napolitains commencèrent à le considérer comme un libérateur, anticipant la fin du règne des Bourbons et l'union avec le royaume de Sardaigne."
+  great_revision_italian_unification.6.a: "Nous souhaitons la bienvenue à nos frères et sœurs."
+  great_revision_italian_unification.6.b: "Il est préférable de ne pas effrayer nos voisins."
+
+  great_revision_italian_unification.7.t: "L'unification des deux Siciles"
+  great_revision_italian_unification.7.d: "Après la prise de Naples et l'expulsion des Bourbons, une seule autre nation se superpose à notre destin. Le temps est venu pour que le pouvoir temporel des papes cesse d'exister."
+  great_revision_italian_unification.7.f: "En 1860, lors de l'expédition des Mille menée par Giuseppe Garibaldi, les rebelles pro-unification s'emparèrent de Naples à un moment crucial pour le processus d'unification de l'Italie. Après avoir vaincu les forces des Bourbons dans plusieurs batailles, Garibaldi réussit à s'approcher de la ville, qui se rendit sans résistance militaire significative. L'entrée triomphale de Garibaldi à Naples le 7 septembre 1860 fut accueillie par le peuple comme une libération. Cet événement marqua la chute finale du Royaume des Deux-Siciles et ouvrit la voie à l'annexion de l'Italie du Sud au Royaume de Sardaigne, posant ainsi les bases essentielles de l'établissement du Royaume d'Italie en 1861."
+  great_revision_italian_unification.7.a: "Il est temps de faire le dernier effort !"
+  great_revision_italian_unification.7.b: "aucun."
+
+  great_revision_italian_unification.8.t: "Intégration du gouvernement toscan"
+  great_revision_italian_unification.8.d: "Les préparatifs pour l'invasion de l'État pontifical ont commencé, mais cela n'a pas arrêté notre processus bureaucratique. Le temps est venu de procéder à l'union du gouvernement de Toscane avant la bataille finale."
+  great_revision_italian_unification.8.f: ""C'est vrai, frère ! jusqu'à il y a quelques années, personne n'aurait pu imaginer que le rêve italien se réaliserait. Mais finalement, nous voici, assis devant la cheminée, avant que notre moment n'arrive, l'événement que nous attendons avec impatience depuis des années. Profitons de cette nuit tranquille, frère, car bientôt nous marcherons sur Rome !.""
+  great_revision_italian_unification.8.a: "Unis nous résistons, Unis nous unifions !"
+  great_revision_italian_unification.8.b: "aucun."
+  
+  great_revision_italian_unification.9.t: "Le traité de Turin"
+  great_revision_italian_unification.9.d: "Le traité de Turin est en cours de signature, marquant une étape cruciale dans l'unification italienne. Nice et la Savoie ont été transférées au Piémont, renforçant notre position face à l'Autriche et à l'État pontifical et alimentant l'espoir d'une Italie unie."
+  great_revision_italian_unification.9.f: ""L'accord est conclu mon roi ! Avec la France qui nous couvre, nous n'avons plus que nos rivaux devant nous. L'unité est presque complète, il ne manque plus qu'un dernier effort. Nous unifierons l'Italie centrale, puis nous déverserons la puissance italienne sur les territoires des Habsbourg !""
+  great_revision_italian_unification.9.a: "En avant vers Rome !"
+  great_revision_italian_unification.9.b: "aucun."
+
+  great_revision_italian_unification.11.t: "Guerre avec l'État pontifical"
+  great_revision_italian_unification.11.d: "Le temps est enfin arrivé, aujourd'hui nous entrons dans les territoires pontificaux pour le dernier acte de notre unification. Aujourd'hui, non seulement les Italiens, mais toutes les grandes puissances nous regardent ! En avant Savoie !! Pour l'Italie !!"
+  great_revision_italian_unification.11.f: "En septembre 1860, le Royaume de Sardaigne, dirigé par Victor Emmanuel II et le Premier ministre Cavour, commença son invasion des États pontificaux. Les troupes piémontaises, commandées par le général Cialdini, traversèrent la frontière vers les Marches et l'Ombrie. Leur objectif était d'annexer ces territoires au Royaume d'Italie naissant, limitant ainsi le pouvoir temporel du pape.\n\nMalgré la résistance de l'armée papale, les forces sardes remportèrent rapidement des victoires. Cette campagne marqua une étape cruciale dans le processus d'unification de l'Italie. L'assaut sur les territoires pontificaux faisait partie d'une stratégie plus large visant à unifier la péninsule italienne sous un seul drapeau, défiant des siècles de fragmentation politique et d'influence étrangère dans la région."
+  great_revision_italian_unification.11.a: "Pour l'Italie ! Pour les Italiens !"
+  great_revision_italian_unification.11.b: "aucun."
+
+  great_revision_italian_unification.12.t : « La grande unification italienne »
+  great_revision_italian_unification.12.d : « L'armée papale s'est rendue, et après le traité de paix, les canons se sont tus et les trompettes sonnent en guise de célébration. Nous avons fait l'Histoire aujourd'hui ! Un nouveau jour, une nouvelle Italie ! »
+  great_revision_italian_unification.12.f: "En septembre 1870, les forces italiennes saisirent l'opportunité de capturer Rome alors que la France était empêtrée dans la guerre franco-prussienne. Le 20 septembre, le général Raffaele Cadorna mena des troupes pour percer les murs d'Aurélien à Porta Pia. Le pape Pie IX, pour éviter un bain de sang, ordonna à ses forces en infériorité numérique de cesser le feu. Les zouaves pontificaux se rendirent, mettant fin aux États pontificaux. Rome fut rapidement annexée au Royaume d'Italie, devenant sa capitale et achevant l'unification territoriale. Cet événement marqua la fin du pouvoir temporel du pape, bien que les tensions entre l'Italie et le Vatican persistèrent pendant des décennies."
+  great_revision_italian_unification.12.a: "Viva L'Italia!"
+  great_revision_italian_unification.12.b: "none."
+
+  great_revision_italian_unification.13.t: "Intégration du gouvernement toscan"
+  great_revision_italian_unification.13.d: "Après le succès de la création de l'Italie, toutes les nations italiennes mineures non encore unifiées ont envoyé des ambassadeurs pour soutenir officiellement l'unification. Ils demandent à faire partie du nouvel État italien."
+  great_revision_italian_unification.13.f: "Le 17 mars 1861, le Royaume d'Italie a été officiellement proclamé, marquant la création de l'État italien. Après des années de guerres, de soulèvements et d'efforts diplomatiques, l'unification de la majeure partie de la péninsule italienne a été réalisée, grâce à des personnalités clés telles que Garibaldi, Cavour et le roi Victor Emmanuel II. Turin a été établie comme première capitale du nouveau royaume. Cependant, certains territoires, dont Rome et la Vénétie, sont restés hors du contrôle italien. Malgré ces exclusions, l'Italie a fait un pas décisif vers son unité nationale, posant les bases d'une nation unie."
+  great_revision_italian_unification.13.a : « Bienvenue, frères italiens »
+  great_revision_italian_unification.13.b : « none ».
+   
+  great_revision_italian_unification.14.t : « Intégration de l'État pontifical »
+  great_revision_italian_unification.14.d : « Après le succès de la création de l'Italie, toutes les nations italiennes mineures non encore unifiées ont envoyé des ambassadeurs pour soutenir officiellement l'unification. Elles demandent à faire partie du nouvel État italien. »
+  great_revision_italian_unification.14.f: "En septembre 1860, le Royaume de Sardaigne, dirigé par Victor Emmanuel II et le Premier ministre Cavour, commença son invasion des États pontificaux. Les troupes piémontaises, commandées par le général Cialdini, traversèrent la frontière vers les Marches et l'Ombrie. Leur objectif était d'annexer ces territoires au Royaume d'Italie naissant, limitant ainsi le pouvoir temporel du pape.\n\nMalgré la résistance de l'armée papale, les forces sardes remportèrent rapidement des victoires. Cette campagne marqua une étape cruciale dans le processus d'unification de l'Italie. L'assaut sur les territoires pontificaux faisait partie d'une stratégie plus large visant à unifier la péninsule italienne sous un seul drapeau, défiant des siècles de fragmentation politique et d'influence étrangère dans la région."
+  great_revision_italian_unification.14.a: "Bienvenue, frères italiens"
+  great_revision_italian_unification.14.b: "none."
+
+  great_revision_italian_unification.15.t: "La reconquête de la Lombardie-Vénétie"
+  great_revision_italian_unification.15.d: "Après la campagne victorieuse contre l'Autriche et la reconquête de la Lombardie et de la Vénétie, l'Italie peut enfin prendre sa place sur l'échiquier géopolitique. Il est maintenant temps pour l'Italie de passer à l'étape suivante pour devenir une grande puissance, il est temps de prendre notre "place sous le soleil" !"
+  great_revision_italian_unification.15.f : « Après la conquête de la Lombardie-Vénétie, le processus d'unification italienne a progressé de manière constante. Ces territoires faisant désormais partie du Royaume d'Italie, le mouvement d'unification de la péninsule a pris un nouvel élan.\n\nEn 1860, l'attention s'est déplacée vers le sud, lorsque Giuseppe Garibaldi a mené sa célèbre expédition des Mille, conquérant le Royaume des Deux-Siciles. Cette campagne militaire, soutenue par des volontaires et accueillie favorablement par de nombreux Italiens du Sud, a conduit à l'annexion rapide du Sud.\n\nAprès ce succès, le Parlement italien a déclaré Victor Emmanuel II roi d'une Italie unie en 1861.\n\nEnfin, en 1870, les forces italiennes ont capturé Rome, achevant l'unification. La péninsule italienne était désormais une seule nation sous un seul drapeau. »
+  great_revision_italian_unification.15.a: "Bienvenue, frères italiens"
+  great_revision_italian_unification.15.b: "aucun."
+
+  great_revision_italian_unification.16.t: "La guerre du Kaiser"
+  great_revision_italian_unification.16.d: "Le temps est enfin arrivé, aujourd'hui nous allons récupérer nos territoires volés par l'envahisseur étranger. Nous libérerons nos villes et repousserons l'armée du Kaiser hors de la péninsule italienne ! En avant la Savoie !! Pour l'Italie !!"
+  great_revision_italian_unification.16.f: "La conquête de la Lombardie-Vénétie par le Royaume de Sardaigne-Piémont a marqué une étape importante dans l'unification italienne. Après une alliance avec la France, Victor Emmanuel II et le Premier ministre Cavour ont lancé la Seconde Guerre d'Indépendance contre le contrôle autrichien sur la région. Les victoires clés de Magenta et de Solférino ont forcé l'Autriche à céder la Lombardie, tandis que la Vénétie est restée sous domination autrichienne. Ce succès a dynamisé le mouvement nationaliste italien et a démontré l'influence croissante de la Sardaigne dans la péninsule. En 1866, l'Italie s'est alliée à la Prusse dans la guerre austro-prussienne. Bien que les forces italiennes aient subi des défaites, la victoire de la Prusse a poussé l'Autriche à céder la Vénétie à l'Italie."
+  great_revision_italian_unification.16.a: "Pour l'Italie ! Pour les Italiens !"
+  great_revision_italian_unification.16.b: "aucun."

@@ -1,0 +1,46 @@
+﻿l_german:
+
+  ########################### GERMAN UNIFICATION #######################################
+  je_puppet_mecleburg_button: "Sichere die Holstein-Grenzen"
+  je_puppet_mecleburg_button_desc: "Die Schleswig-Holstein-Frage ist seit langem eines der größten Hindernisse für unsere Einigung. Wenn wir die Grenze sichern, indem wir Mecklenburg in unser Reich eingliedern, stellt das sicher, dass wir bereit sind, dänisches Gebiet zu erobern, sobald die Zeit gekommen ist."
+
+  je_war_denmark_button: "Starte den Blitzkrieg"
+  je_war_denmark_button_desc: "Wir müssen schnell handeln. Wenn wir einen raschen Angriff auf dänische Gebiete starten, werden die Großmächte nicht rechtzeitig in unseren Krieg eingreifen können. Diese Aktion wird einen hohen diplomatischen Preis fordern, doch nach dem Krieg kommen wir unserer Einigung einen großen Schritt näher."
+
+  je_war_austria_button: "Der Große Bruderkrieg"
+  je_war_austria_button_desc: "Die Diplomatie ist gescheitert. Die Österreicher werden uns niemals erlauben, unser eigenes Schicksal zu bestimmen. Wenn wir unsere Führungsrolle unter den deutschen Nationen sichern wollen, müssen wir unsere Macht auf dem Schlachtfeld beweisen. Wir werden die Österreicher demütigen und die deutschen Fürstentümer unter einer einzigen Flagge vereinen!"
+
+  great_revision_german_unification_brother_war:0 "Der Große Bruderkrieg"
+  great_revision_german_unification_german_empire:0 "Die Große Deutsche Einigung"
+  great_revision_german_unification_denmark_invasion:0 "Die Schleswig-Holstein-Befreiung"
+  great_revision_german_unification_stallmate:0 "Preußische Vorherrschaft"
+  
+  great_revision_german_unification.1:0 "Die Sicherung der Holstein-Grenzen"
+  great_revision_german_unification.1.t:0 "Die Sicherung der Holstein-Grenzen"
+  great_revision_german_unification.1.d:0 "Um unsere Invasion dänischer Gebiete vorzubereiten, müssen wir einen direkten Durchmarsch für unsere Truppen sichern. Dank unseres Einflusses auf die Regierung Mecklenburgs können wir sie diplomatisch davon überzeugen, Teil unseres Königreichs zu werden."
+  great_revision_german_unification.1.f:0 "Exzellenzen der Regierung Mecklenburgs, es liegt in Ihrem besten Interesse, unserer Forderung nachzukommen. Während wir uns auf die bevorstehende Offensive vorbereiten, erwarten wir nicht nur eure Kooperation, sondern sie ist unabdingbar. Wir benötigen einen offenen Durchmarsch für unsere Truppen durch euer Gebiet, und wir vertrauen darauf, dass ihr die Konsequenzen versteht, wenn ihr diese Unterstützung verweigert. Sobald der Krieg beginnt, wird eure Position davon abhängen, euch mit uns zu verbünden. Dies ist der Moment, in dem Mecklenburg seine Loyalität beweisen und seine zukünftige Stabilität sichern kann."
+  great_revision_german_unification.1.a:0 "Ruft die Generäle zusammen, um den Invasionsplan vorzubereiten."
+  
+  great_revision_german_unification.2:0 "Dänemark angreifen"
+  great_revision_german_unification.2.t:0 "Dänemark angreifen"
+  great_revision_german_unification.2.d:0 "Die Zeit ist gekommen, unsere deutschen Brüder vom Joch der Dänen zu befreien. Heute beginnt der erste Schritt auf dem Weg zur Vereinigung unseres Landes. Eine neue Nation! Ein neues Deutschland!"
+  great_revision_german_unification.2.f:0 "Verehrte Abgeordnete, die Frage Schleswig-Holsteins verlangt nach einem entschlossenen Vorgehen Preußens. Diese Herzogtümer, die dem Deutschen Bund angehören, werden zu Unrecht von Dänemark beansprucht. Es ist unsere Pflicht, die Rechte des deutschen Volkes dort zu verteidigen und zurückzuholen, was rechtmäßig unserem Bund gehört. Preußen muss in dieser Angelegenheit führen, nicht nur um unsere deutschen Brüder zu schützen, sondern auch um unsere Rolle als Verteidiger deutscher Interessen zu festigen. Jetzt ist die Zeit zum Handeln, für die Zukunft eines geeinten Deutschlands!"
+  great_revision_german_unification.2.a:0 "Macht die Truppen mobil!"
+  
+  great_revision_german_unification.3:0 "Der Große Bruderkrieg"
+  great_revision_german_unification.3.t:0 "Der Große Bruderkrieg"
+  great_revision_german_unification.3.d:0 "Die Zeit Österreichs ist vorüber, und für die Zukunft eines vereinten Deutschlands muss Preußen aufsteigen. Es ist schmerzhaft, doch unsere Loyalität zu dieser Sache verlangt es. Wir müssen für das kämpfen, was vor uns liegt, gleich welchen Preis es hat!"
+  great_revision_german_unification.3.f:0 "Kameraden, heute stehen wir vor einer schwierigen, aber notwendigen Entscheidung. Wir kämpfen nicht gegen einen fernen Feind, sondern gegen unsere eigenen deutschen Brüder. Dieser Krieg ist entscheidend, um Preußens rechtmäßige Führungsrolle unter den deutschen Staaten zu sichern. Obwohl wir mit Österreich ein gemeinsames Erbe teilen, müssen wir erkennen, dass ihre Zeit vorbei ist. Für die Zukunft eines geeinten und starken Deutschlands muss Preußen die Herausforderung annehmen. Ohne Schmerz gehen wir diesen Weg nicht, aber unsere Pflicht zur Sache verlangt es. Vorwärts, entschlossen in unserem Ziel!"
+  great_revision_german_unification.3.a:0 "Vorwärts nach Wien!"
+  
+  great_revision_german_unification.4:0 "Preußische Vorherrschaft"
+  great_revision_german_unification.4.t:0 "Preußische Vorherrschaft"
+  great_revision_german_unification.4.d:0 "Nach all diesen Jahren des politischen Stillstands ist endgültig klar, dass Preußen alle deutschen Kleinstaaten zur Einigung führen wird. Österreich wurde an den Rand gedrängt, und eine neue große deutsche Macht ist entstanden."
+  great_revision_german_unification.4.f:0 "Unsere Vorherrschaft ist offensichtlich! Österreichs gleichgültiges Verhalten gegenüber der Regionalpolitik hat gezeigt, dass es nicht mehr in der Lage ist, eine effektive Führung zu übernehmen. Von nun an werden alle Brüder und Schwestern deutscher Kultur von Preußen geführt!"
+  great_revision_german_unification.4.a:0 "Es lebe der Norddeutsche Bund!"
+  
+  great_revision_german_unification.5:0 "Die Große Deutsche Einigung"
+  great_revision_german_unification.5.t:0 "Die Große Deutsche Einigung"
+  great_revision_german_unification.5.d:0 "Die Diplomatie ist gescheitert. Die großen Nationen werden uns niemals erlauben, unser Schicksal selbst in die Hand zu nehmen. Wenn wir unsere Führungsrolle unter den deutschen Nationen sichern wollen, müssen wir unsere Stärke auf dem Schlachtfeld beweisen. Wir werden Frankreich und jeden anderen Gegner demütigen, der sich uns in den Weg stellt, und wir werden die deutschen Fürstentümer unter einer einzigen Flagge vereinen!"
+  great_revision_german_unification.5.f:0 "Heute steht nicht nur Berlin hinter uns, nicht nur unsere große Nation, sondern die ganze Welt blickt auf unser Handeln! Dieser Krieg wird das Schicksal Deutschlands entscheiden. Wer wird siegen? Wer wird Geschichte schreiben? Eines ist sicher: Nach diesem Konflikt wird eine neue Ordnung entstehen, und die alte wird zusammenbrechen!"
+  great_revision_german_unification.5.a:0 "Für Berlin! Für Deutschland!"

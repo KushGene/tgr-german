@@ -1,0 +1,26 @@
+﻿l_german:
+
+  ########################### MODIFIERS ###########################
+  great_revision_usa_manifest_destiny:0 "Offenkundiges Schicksal"
+  
+  great_revision_usa_civil_war_usa:0 "Der Amerikanische Bürgerkrieg"
+  great_revision_usa_civil_war_csa:0 "Der Amerikanische Bürgerkrieg"
+  
+  great_revision_rsm_indipendence_war:0 "Der Italienische Unabhängigkeitskrieg"
+  great_revision_aus_indipendence_war:0 "Der Italienische Unabhängigkeitskrieg"
+  
+  great_revision_fra_revolution_war_secessionist:0 "Französische Revolution: Unorganisierte Armee"
+  great_revision_fra_revolution_war_lealist:0 "Französische Revolution: Loyalistischer Eifer"
+  
+  ########################### EVENTS ###########################
+  
+  great_revision_events.5:0 "Der Mexikanisch-Amerikanische Krieg"
+  great_revision_events.5.t:0 "Der Mexikanisch-Amerikanische Krieg"
+  great_revision_events.5.d:0 "Wir müssen uns über den amerikanischen Westen ausbreiten. Dies ist das Schicksal des amerikanischen Volkes, und nichts wird uns aufhalten – nicht einmal die Mexikaner!"
+  great_revision_events.5.f:0 "'Heute, meine tapferen Landsleute, ist unser Augenblick gekommen! Seit wir das Joch der Briten abgeschüttelt haben, wissen wir, dass es nur eine einzige Nation gibt, die das Recht hat, über die Amerikas zu herrschen! Und diese Nation sind wir! Vorwärts, bereit, unser Schicksal anzunehmen!'"
+  great_revision_events.5.a:0 "Lasst uns etwas Demokratie exportieren!"
+  
+  ########################### COUNTRIES NAME ###########################
+  
+  GER:0 "Kaiserreich"
+  GER_ADJ:0 "Deutsch"

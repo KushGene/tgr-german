@@ -1,0 +1,354 @@
+﻿l_french:
+
+	#################### MODIFIERS ####################
+	building_group_bg_technology_tax_mult:0 "Revenu fiscal des bâtiments universitaires"
+	building_group_bg_technology_tax_mult_desc:0 "Un bonus ou une pénalité pour taxer les revenus des bâtiments universitaires"
+	building_group_bg_military_tax_mult:0 "Revenu fiscal militaire"
+	building_group_bg_military_tax_mult_desc:0 "Un bonus ou une pénalité pour taxer les revenus des bâtiments militaires"
+
+	building_group_bg_bureaucracy_throughput_add:0 "$bg_bureaucracy$ [concept_throughput]"
+	building_group_bg_bureaucracy_throughput_add_desc:0 "Un bonus ou une pénalité à la fois sur l'entrée et la sortie de $bg_bureaucracy$"
+
+	country_shopkeepers_pol_str_mult:1 "[concept_political_strength] de $shopkeepers$"
+	country_shopkeepers_pol_str_mult_desc:1 "Une augmentation ou une diminution de [concept_political_strength] de $shopkeepers$"
+
+	department_great_revision:0 "Loi sur la politique ministérielle"
+
+	politician_landowners:0 "Politicien nommé"
+	politician_industrialists:0 "Politicien nommé"
+	politician_petty_bourgeoisie:0 "Politicien nommé"
+	politician_armed_forces:0 "Politicien nommé"
+	politician_devout:0 "Politicien nommé"
+	politician_intelligentsia:0 "Politicien nommé"
+	politician_rural_folk:0 "Politicien nommé"
+	politician_trade_unions:0 "Politicien nommé"
+			
+	country_institution_incentive_max_investment_add:0 "Investissement max $institution_incentive$ [concept_institution]"
+	country_institution_incentive_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_incentive$ [concept_institution]"
+
+	country_institution_pension_max_investment_add:0 "Investissement max $institution_pension$ [concept_institution]"
+	country_institution_pension_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_pension$ [concept_institution]"
+
+	country_institution_salary_max_investment_add:0 "Investissement max $institution_salary$ [concept_institution]"
+	country_institution_salary_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_salary$ [concept_institution]"
+
+	country_institution_foreign_max_investment_add:0 "Investissement max $institution_foreign$ [concept_institution]"
+	country_institution_foreign_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_foreign$ [concept_institution]"
+
+	country_institution_administration_max_investment_add:0 "Investissement max $institution_administration$ [concept_institution]"
+	country_institution_administration_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_administration$ [concept_institution]"
+
+	country_institution_treasury_max_investment_add:0 "Investissement max $institution_treasury$ [concept_institution]"
+	country_institution_treasury_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_treasury$ [concept_institution]"
+
+	country_institution_propaganda_max_investment_add:0 "Investissement max $institution_propaganda$ [concept_institution]"
+	country_institution_propaganda_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_propaganda$ [concept_institution]"
+
+	country_institution_information_max_investment_add:0 "Investissement max $institution_information$ [concept_institution]"
+	country_institution_information_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_information$ [concept_institution]"
+
+	country_institution_environment_max_investment_add:0 "Investissement max $institution_environment$ [concept_institution]"
+	country_institution_environment_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_environment$ [concept_institution]"
+
+	country_institution_defense_max_investment_add:0 "Investissement max $institution_defense$ [concept_institution]"
+	country_institution_defense_max_investment_add_desc:0 "Un bonus ou une pénalité au niveau d'investissement maximum de $institution_defense$ [concept_institution]"
+
+	#################### AI STRATEGIES ####################
+	ai_strategy_consumer_goods:0 "Économie des biens de consommation"
+	ai_strategy_consumer_goods_desc:0 "[COUNTRY.GetName] souhaite développer son économie en produisant de grandes quantités de biens de consommation."
+	ai_strategy_war_economy:0 "Économie de guerre"
+	ai_strategy_war_economy_desc:0 "[COUNTRY.GetName] développe ses industries lourdes pour devenir un exportateur majeur d'armes."
+
+	#################### DECREES ####################
+	decree_greener_grass_campaign_great_revision:0 "Campagne pour une herbe plus verte"
+	decree_greener_grass_campaign_great_revision_desc:0 "Promouvoir l'État comme un endroit où il fait bon migrer grâce à une campagne d'incitations vigoureuse"
+
+	#################### IDEOLOGIES ####################
+	ideology_tax_department_armed_forces:0 "Réforme fiscale"
+	ideology_tax_department_armed_forces_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_devout:0 "Réforme fiscale"
+	ideology_tax_department_devout_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_industrialist:0 "Réforme fiscale"
+	ideology_tax_department_industrialist_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_intelligentsia:0 "Réforme fiscale"
+	ideology_tax_department_intelligentsia_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_landowners:0 "Réforme fiscale"
+	ideology_tax_department_landowners_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_petty_bourgeoisie:0 "Réforme fiscale"
+	ideology_tax_department_petty_bourgeoisie_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_rural_folk:0 "Réforme fiscale"
+	ideology_tax_department_rural_folk_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+	ideology_tax_department_trade_unions:0 "Réforme fiscale"
+	ideology_tax_department_trade_unions_desc:0 "Ce groupe estime que le gouvernement devrait taxer ses citoyens."
+
+	ideology_government_armed_forces:0 "Politiques gouvernementales"
+	ideology_government_armed_forces_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait adopter."
+	ideology_government_devout:0 "Politiques gouvernementales"
+	ideology_government_devout_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait adopter."
+	ideology_government_industrialist:0 "Politiques gouvernementales"
+	ideology_government_industrialist_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait adopter."
+	ideology_government_intelligentsia:0 "Politiques gouvernementales"
+	ideology_government_intelligentsia_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait adopter."
+	ideology_government_landowners:0 "Politiques gouvernementales"
+	ideology_government_landowners_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait adopter."
+	ideology_government_petty_bourgeoisie:0 "Politiques gouvernementales"
+	ideology_government_petty_bourgeoisie_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait mettre en œuvre."
+	ideology_government_rural_folk:0 "Politiques gouvernementales"
+	ideology_government_rural_folk_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait mettre en œuvre."
+	ideology_government_trade_unions:0 "Politiques gouvernementales"
+	ideology_government_trade_unions_desc:0 "Ce groupe estime quelles politiques le gouvernement devrait mettre en œuvre."
+
+	#################### TAX DEPARTMENT ####################
+	tax_department: "Ministère des impôts"
+	je_tax_department_tutorial_1:0 "La Grande Révision : Réforme fiscale"
+	je_tax_department_tutorial_1_reason:0 "La Grande Révision a introduit une nouvelle fonctionnalité qui vous permet d'appliquer différents niveaux de taxes à différentes strates de population.\n\nAprès un mois de jeu, un événement désactivera le système de taxes Vanilla, passant à la nouvelle #bold Réforme fiscale#!.\n\nAprès cela, votre panneau budgétaire ne collectera que les #bold Taxes à la consommation#! tandis que dans le #bold Bâtiment de l'onglet Développement#! vous trouverez le nouveau #bold Ministère des impôts#! qui vous permet d'appliquer différents niveaux de taxes en fonction des #bold Lois de réforme fiscale#! actuelles.\n\nLa logique restera la même que dans Vanilla : des taxes régressives commençant par le haut vers des taxes plus progressives descendantes.\n\n#bold PROFITEZ DE VOS NOUVELLES TAXES VICTORIA 3 EXPÉRIENCE!#!"
+
+	#################### TAX DEPARTMENT: PRODUCTION METHOD GROUPS ####################
+	pmg_tax_consumption: "Taxe sur la consommation"
+	pmg_tax_land: "Taxe foncière"
+	pmg_tax_per_capita: "Taxe par habitant"
+	pmg_tax_income: "Impôt sur le revenu"
+	pmg_tax_dividend: "Impôt sur les dividendes"
+	pmg_management: "Type de gestion"
+
+	#################### TAX DEPARTMENT: PRODUCTION METHOD ####################
+	# Consumption Tax
+	pm_tax_level_consumption_0: "Pas de taxation"
+	pm_tax_level_consumption_1: "Très faible taxation"
+	pm_tax_level_consumption_2: "Faible taxation"
+	pm_tax_level_consumption_3: "Taxe faible à moyenne"
+	pm_tax_level_consumption_4: "Taxe moyenne"
+	pm_tax_level_consumption_5: "Taxe moyenne à élevée"
+	pm_tax_level_consumption_6: "Taxe élevée"
+	pm_tax_level_consumption_7: "Très élevée taxation"
+	pm_tax_level_consumption_8: "Niveau de taxation max élevé"
+			
+	# Land Tax
+	pm_tax_level_land_0: "Pas d'imposition"
+	pm_tax_level_land_1: "Imposition minimale"
+	pm_tax_level_land_2: "Imposition très faible"
+	pm_tax_level_land_3: "Faible imposition"
+	pm_tax_level_land_4: "Imposition moyenne-faible"
+	pm_tax_level_land_5: "Imposition moyenne"
+	pm_tax_level_land_6: "Imposition moyenne-élevée"
+	pm_tax_level_land_7: "Imposition élevée"
+	pm_tax_level_land_8: "Imposition très élevée"
+	pm_tax_level_land_9: "Imposition extrêmement élevée"
+	pm_tax_level_land_10: "Imposition maximale"
+
+	# Per Capita Tax
+	pm_tax_level_capita_0: "Pas d'imposition"
+	pm_tax_level_capita_1: "Imposition minimale"
+	pm_tax_level_capita_2: "Imposition très faible"
+	pm_tax_level_capita_3: "Faible imposition"
+	pm_tax_level_capita_4: "Imposition moyenne-faible"
+	pm_tax_level_capita_5: "Imposition moyenne"
+	pm_tax_level_capita_6: "Imposition moyenne-élevée"
+	pm_tax_level_capita_7: "Imposition élevée"
+	pm_tax_level_capita_8: "Imposition très élevée"
+	pm_tax_level_capita_9: "Imposition extrêmement élevée"
+	pm_tax_level_capita_10: "Imposition maximale"
+
+
+	# Income Tax
+	pm_tax_level_income_0: "Pas d'imposition"
+	pm_tax_level_income_1: "Imposition minimale"
+	pm_tax_level_income_2: "Imposition très faible"
+	pm_tax_level_income_3: "Faible imposition"
+	pm_tax_level_income_4: "Imposition moyenne-faible"
+	pm_tax_level_income_5: "Imposition moyenne"
+	pm_tax_level_income_6: "Imposition moyenne-élevée"
+	pm_tax_level_income_7: "Imposition élevée"
+	pm_tax_level_income_8: "Imposition très élevée"
+	pm_tax_level_income_9: "Imposition extrêmement élevée"
+	pm_tax_level_income_10: "Imposition maximale"
+			
+	# Dividend Tax
+	pm_tax_level_dividend_0: "Pas d'imposition"
+	pm_tax_level_dividend_1: "Imposition minimale"
+	pm_tax_level_dividend_2: "Imposition très faible"
+	pm_tax_level_dividend_3: "Faible imposition"
+	pm_tax_level_dividend_4: "Imposition moyenne-faible"
+	pm_tax_level_dividend_5: "Imposition moyenne"
+	pm_tax_level_dividend_6: "Imposition moyenne-élevée"
+	pm_tax_level_dividend_7: "Imposition élevée"
+	pm_tax_level_dividend_8: "Imposition très élevée"
+	pm_tax_level_dividend_9: "Imposition extrêmement élevée"
+	pm_tax_level_dividend_10: "Imposition maximale"
+
+	# Management
+	pm_management_bureaucrats: "Agents fiscaux nommés"
+	pm_management_clergy: "Agents fiscaux de bureau"
+	pm_management_elected: "Agents fiscaux élus"
+
+	########################## ISTITUTIONS #########################
+	institution_pension:0 "Ministère de la Sécurité Sociale"
+	institution_pension_desc:0 "Pension d'État pour les personnes qui ont atteint l'âge de la retraite."
+
+	institution_salary:0 "Ministère du Travail"
+	institution_salary_desc:0 "Le Contrat National du Travail établit différents niveaux de réglementation pour garantir le droit des travailleurs, à de meilleurs salaires et horaires de travail."
+
+	institution_incentive:0 "Ministère des Investissements Nationaux"
+	institution_incentive_desc:0 "Le Ministère National des Investissements stimulera notre économie par le biais de politiques fiscales et économiques."
+
+	institution_foreign:0 "Ministère des Affaires Étrangères"
+	institution_foreign_desc:0 "Le Ministère des Affaires Étrangères établira des Ambassades dans les pays étrangers pour assurer les relations diplomatiques."
+
+	institution_administration:0 "Ministère de l'Administration Publique"
+	institution_administration_desc:0 "Notre Administration Publique est le fondement de notre société sans lequel nous ne pourrons pas organiser la nation."
+
+	institution_treasury:0 "Ministère du Trésor"
+	institution_treasury_desc:0 "Le Trésor, le cœur de l'économie nationale, l'institution qui nous aide à gérer les impôts collectés auprès de notre population."
+
+	institution_propaganda:0 "Ministère de la Propagande"
+	institution_propaganda_desc:0 "Pour contrôler les masses, nous avons besoin d'une institution centralisée qui garantira que toutes les voix dissidentes seront réduites au silence."
+
+	institution_information:0 "Ministère de l'Information"
+	institution_information_desc:0 "Tout pays démocratique qui se respecte a besoin d'un système qui permette la bonne circulation de l'information, pour garantir le respect du droit de parole de chaque citoyen."
+
+	institution_environment:0 "Ministère de l'Environnement"
+	institution_environment_desc:0 "Non seulement l'économie d'un pays doit être saine, mais aussi sa terre et l'air qui l'entoure. Il est du devoir du gouvernement de les préserver et de les protéger."
+
+	institution_defense:0 "Ministère de la Défense"
+	institution_defense_desc:0 "Pendant que nous dormons profondément la nuit, nos enfants nous protègent des dangers au-delà de nos frontières. Ils sont les gardiens de notre sérénité."
+
+	institution_colonial_affairs:0 "Ministère des Affaires coloniales"
+	institution_social_security:0 "Ministère de la Protection sociale"
+	institution_workplace_safety:0 "Ministère de la Sécurité des travailleurs"
+	institution_schools:0 "Ministère de l'Éducation"
+	institution_police:0 "Ministère de la Sécurité publique"
+	institution_health_system:0 "Ministère de la Santé"
+	institution_home_affairs:0 "Ministère de l'Intérieur"
+	institution_environment:0 "Ministère de l'Environnement"
+	institution_defense:0 "Ministère de la Défense"
+
+
+	########################## LAWS GROUP #########################
+	lawgroup_tax_department: "Réforme fiscale"
+	lawgroup_social_security: "Sécurité sociale"
+	lawgroup_social_security_desc: "Institution nationale pour fournir la sécurité sociale aux personnes qui ont pris leur retraite."
+	lawgroup_salary_regulation: "Régulation des salaires"
+	lawgroup_salary_regulation_desc: "L'État a établi différentes règles pour fournir des salaires équitables aux travailleurs ou pour améliorer la compétitivité de l'économie."
+	lawgroup_foreign_policy: "Politique étrangère"
+	lawgroup_foreign_policy_desc: "Une nation forte peut être vue sous tous les angles, en particulier sa politique étrangère."
+	lawgroup_economic_incentives: "Incitations économiques"
+	lawgroup_economic_incentives_desc: "Des politiques économiques spécifiques peuvent nous aider à mieux orienter l'économie vers l'avenir."
+	lawgroup_working_hours: "Heures de travail"
+	lawgroup_working_hours_desc: "L'État peut introduire des politiques pour réguler les heures de travail."
+	lawgroup_environment: "Règlements sur la pollution"
+	lawgroup_working_hours_desc: "Non seulement l'économie d'un pays doit être saine, mais aussi sa terre et l'air qui l'entoure. Il est du devoir du gouvernement de les préserver et de les protéger."
+
+	law_tax_department_based_taxation:0 "Loi sur le Ministère des impôts"
+	law_tax_department_based_taxation_desc:0 "Le système fiscal est géré par un Ministère gouvernemental qui appliquera différents niveaux d'imposition aux populations. Utilisez le bâtiment associé dans l'onglet développement pour gérer vos impôts. PS : NE CHANGEZ PAS cette loi ou vous ne pourrez plus revenir en arrière."
+
+	########################## LAWS TITLE #########################  
+	law_consumption_fiscal_reform: "Réforme fiscale sur les biens de consommation"
+	law_land_fiscal_reform: "Réforme fiscale sur la propriété foncière"
+	law_per_capita_fiscal_reform: "Réforme fiscale sur l'impôt par habitant"
+	law_income_fiscal_reform: "Réforme fiscale sur les revenus et les bénéfices"
+	law_dividend_fiscal_reform: "Réforme fiscale sur l'impôt progressif"
+	law_old_age_pension: "Négociation nationale"
+	law_no_pension: "Pas de versement de pension"
+	law_minimum_pension: "Pension de vieillesse"
+	law_medium_pension: "Paiements de sécurité sociale"
+	law_modern_pension: "Institut national de sécurité sociale"
+	law_no_salary_regulation: "Pas de réglementation salariale"
+	law_salary_competitive_economy: "Règlements favorables aux entreprises"
+	law_salary_minimum_safety: "Règlement sur les salaires standards"
+	law_salary_national_contract: "Règlement en faveur des travailleurs"
+	foreign_policy_no_focus: "Aucun objectif spécifique"
+	foreign_policy_diplomatic_embassies: "Ambassades diplomatiques"
+	foreign_policy_authoritarian_representation: "Renforce la perception étrangère"
+	foreign_policy_military_expansionism: "Expansionnisme militaire"
+	foreign_policy_foreign_investments: "Inviter les investisseurs étrangers"
+	economic_incentives_no_focus: "Aucun objectif d'incitation"
+	economic_incentives_agricolture: "Investissements agricoles"
+	economic_incentives_plantation: "Investissements dans les plantations"
+	economic_incentives_fishing: "Investissements dans la pêche"
+	economic_incentives_extracting: "Investissements dans les ressources"
+	economic_incentives_industry: "Investissements dans l'industrie"
+	economic_incentives_services: "Investissements dans les services"
+	economic_incentives_university: "Investissements dans le secteur public"
+	economic_incentives_military: "Investissements dans le secteur militaire"
+	law_unregulated_work_time: "Heures de travail non réglementées"
+	law_token_time_regulations: "Journées de travail de 12 heures"
+	law_limited_work_hours: "Journées de travail de 10 heures"
+	law_protected_leisure: "Journées de travail de 8 heures"
+	law_no_environment_regulations: "Aucune réglementation sur la pollution"
+	law_minimum_environment_regulations: "Règlement sur la pollution minimale"
+	law_standard_environment_regulations: "Règlement sur la pollution standard"
+	law_eco_environment_regulations: "Règlement sur la pollution respectueuse de l'environnement"
+			
+	########################## LAWS DESCRIPTION #########################
+	law_consumption_fiscal_reform_desc: "Une réforme fiscale qui ne taxera que la consommation de biens, laissant intacts les revenus, les dividendes et autres taxes régressives."
+	law_land_fiscal_reform_desc: "Cette réforme fiscale appliquera une nouvelle méthode de taxation, en incluant les taxes du secteur agricole dans le revenu national."
+	law_per_capita_fiscal_reform_desc: "Avec l'industrialisation à venir, beaucoup de gens se déplacent vers les grandes villes. Cette nouvelle réforme fiscale créera un nouvel impôt forfaitaire appliqué aux travailleurs adultes célibataires."
+	law_income_fiscal_reform_desc: "Cette nouvelle réforme fiscale introduira de nouveaux impôts calculés en pourcentage sur les revenus et les dividendes de l'activité économique, en appliquant des niveaux d'imposition inférieurs pour les entreprises, par rapport à la population."
+	law_dividend_fiscal_reform_desc: "Le nouveau système fiscal réformera la structure de la fiscalité, permettant à la population de payer des impôts en fonction de sa capacité de contribution."
+	law_old_age_pension_desc: "Avec la nouvelle réglementation en matière de droit des travailleurs, les syndicats peuvent négocier avec les groupes des secteurs productifs pour assurer un traitement équitable des travailleurs pendant leur emploi."
+	law_no_pension_desc: "L'État ne fournit aucune sécurité après la retraite du travail pour la vieillesse."
+	law_minimum_pension_desc: "Une partie du salaire du travailleur est déduite pour payer les pensions à la génération précédente. Ce faisant, l'État aidera les personnes âgées avec un minimum de subvention pour subvenir à leurs besoins primaires."
+	law_medium_pension_desc: "L'État déduira une partie du salaire des travailleurs comme contribution pour assurer leur pension lorsqu'ils arriveront à l'âge de la retraite."
+	law_modern_pension_desc: "L'Institut national de sécurité sociale est l'entité principale de l'État qui fournit la pension nationale à toutes les personnes qui arrivent à l'âge de la retraite."
+	law_no_salary_regulation_desc: "Notre nation n'applique aucune politique spéciale pour réguler le marché du travail."
+	law_salary_competitive_economy_desc: "Pour inciter les investisseurs étrangers à ouvrir des affaires dans notre pays, nous veillons à ce que notre économie soit attractive grâce à une politique spécifique en faveur des entreprises."
+	law_salary_minimum_safety_desc: "L'État fournit une réglementation standard pour trouver le juste équilibre entre la sécurité des besoins des travailleurs et une économie compétitive."
+	law_salary_national_contract_desc: "Nous devons établir des politiques rigides et spécifiques pour éviter que les intérêts des grandes entreprises puissent nuire au bien-être de nos citoyens."
+	foreign_policy_no_focus_desc: "Notre agenda étranger ne fixe aucun objectif spécifique, nous laissant trouver un équilibre entre nos priorités."
+	foreign_policy_diplomatic_embassies_desc: "A l'ère moderne dans laquelle nous vivons, il est important d'établir de bonnes relations avec les autres pays, qu'ils soient proches ou lointains, pour assurer le bon équilibre sur l'échiquier mondial."
+	foreign_policy_authoritarian_representation_desc: "Notre pays a trop longtemps été négligé dans les affaires mondiales. Nous devons renforcer notre gouvernement et notre réputation afin de gagner en importance parmi les grandes puissances."
+	foreign_policy_military_expansionism_desc: "Peu importe l'influence ou la richesse d'un pays. Les armées seront toujours le facteur dominant dans les affaires mondiales. Le renforcement de notre armée garantira que nous serons craints et respectés à l'intérieur comme à l'extérieur de notre nation."
+	#foreign_policy_foreign_investments_desc: "In a World that is becoming increasingly globalized, it is of fundamental importance to be able to establish as many economic and commercial links with other countries. Having economic influence on other countries also means having political influence, but opening ourselves up to the world could also leave us open to other external Powers."
+	foreign_policy_foreign_investments_desc: "Nous ne pouvons pas développer notre économie seuls. Nous devons inciter les investisseurs étrangers à apporter leurs capitaux dans notre pays. Ce faisant, nous assurerons une croissance continue et stable, mais nous ouvrir au monde pourrait également nous exposer à l'influence des grandes puissances extérieures."
+	economic_incentives_no_focus_desc: "Nous ne mettons en place aucune incitation spécifique pour notre économie"
+	economic_incentives_agricolture_desc: "La richesse d'une nation provient de sa terre. En promettant des allégements fiscaux supplémentaires dans le secteur agricole, nous inciterons les particuliers à investir leurs capitaux sur notre territoire."
+	economic_incentives_plantation_desc: "Les terres riches et fertiles dont nous disposons nous permettent d'exploiter pleinement l'espace disponible pour construire de nouvelles plantations. Nous encourageons le secteur privé à investir en introduisant des allégements fiscaux dans le secteur."
+	economic_incentives_fishing_desc: "Notre grande nation est située dans une zone géographiquement favorable à l'industrie de la pêche. Les courants favorables et la vie marine abondante nous permettent d'exploiter pleinement cette richesse. Nous avons juste besoin de personnes prêtes à investir leur argent dans ce secteur."
+	economic_incentives_extracting_desc: "Les énormes gisements naturels de notre territoire nous permettent d'extraire un surplus de ressources que nous pouvons concentrer à la fois sur l'exportation et sur l'utilisation dans notre économie. Nous introduisons de nouveaux avantages fiscaux pour encourager les investisseurs à ouvrir de nouvelles mines."
+	economic_incentives_industry_desc: "L'industrialisation est arrivée. Les nouvelles technologies nous permettent d'augmenter considérablement la production, et avec elle aussi les profits. Nous investissons autant de ressources que possible dans le secteur pour élargir toujours plus notre marché."
+	economic_incentives_services_desc: "La première phase de l'industrialisation a apporté prospérité et richesse. Mais maintenant, de plus en plus de nouveaux secteurs émergent où la valeur de l'esprit dépasse celle des armes. De nouveaux métiers sont nés et avec l'augmentation du niveau de vie, notre économie est de plus en plus en demande d'opérateurs spécialisés. Nous encourageons ce nouveau secteur en promettant des avantages fiscaux aux nouveaux investisseurs."
+	economic_incentives_university_desc: "Notre économie a besoin de qualifications hautement qualifiées pour croître. Nous devons investir dans notre secteur public pour garantir que chaque nouvelle génération sera plus compétente que la précédente."
+	economic_incentives_military_desc: "En ces temps difficiles, le secteur militaire prend de plus en plus d'importance. Nous devons sécuriser notre nation en encourageant les gens à rejoindre notre armée."
+	law_unregulated_work_time_desc: "Heures de travail non réglementées"
+	law_token_time_regulations_desc: "Journées de travail de 12 heures"
+	law_limited_work_hours_desc: "Journées de travail de 10 heures"
+	law_protected_leisure_desc: "Journées de travail de 8 heures"
+	law_no_environment_regulations_desc: "Aucune réglementation sur la pollution"
+	law_minimum_environment_regulations_desc: "Règlements sur la pollution minimale"
+	law_standard_environment_regulations_desc: "Règlements sur la pollution standard"
+	law_eco_environment_regulations_desc: "Règlements sur la pollution respectueuse de l'environnement"
+		
+	##########################  EVENT DESCRIPTION #########################
+	tax_dep.1:0 "Loi sur le Ministère des Impôts"
+	tax_dep.1.t:0 "Loi sur le Ministère des Impôts"
+	tax_dep.1.desc:0 "Loi sur le Ministère des Impôts"
+	tax_dep.1.d:0 "Le système fiscal est géré par un Ministère gouvernemental qui appliquera un niveau de taxation différent aux pops"
+	tax_dep.1.f:0 "Le système fiscal est géré par un Ministère gouvernemental qui appliquera un niveau de taxation différent aux pops"
+	tax_dep.1.a:0 "Le système fiscal est géré par un Ministère gouvernemental qui appliquera un niveau de taxation différent aux pops"
+
+	tax_dep.2:0 "Loi sur les tarifs douaniers à l'importation"
+	tax_dep.2.t:0 "Loi sur les tarifs douaniers à l'importation"
+	tax_dep.2.desc:0 "Loi sur le Ministère des Impôts"
+	tax_dep.2.d:0 "L'IA appliquera un tarif de 0 % sur les importations"
+	tax_dep.2.f:0 "L'IA appliquera 0% de droits de douane sur les importations"
+	tax_dep.2.a:0 "L'IA appliquera un droit de douane de 0% sur les importations"
+
+	tax_dep.3:0 "Détruire le double Ministère des impôts"
+	tax_dep.3.t:0 "Détruire le double Ministère des impôts"
+	tax_dep.3.desc:0 "Détruire le double Ministère des impôts"
+	tax_dep.3.d:0 "Détruire plusieurs Ministères fiscaux qui ne sont pas dans la capitale"
+	tax_dep.3.f:0 "Détruire plusieurs Ministères fiscaux qui ne sont pas dans la capitale"
+	tax_dep.3.a:0 "Détruire plusieurs Ministères fiscaux qui ne sont pas dans la capitale"
+
+	spawn_ig_politician.1:0 "Nommer des propriétaires fonciers comme politicien"
+	spawn_ig_politician.1.t:0 "Nommer des propriétaires fonciers comme politicien"
+	spawn_ig_politician.1.desc:0 "Nommer des propriétaires fonciers comme politicien Politicien"
+	spawn_ig_politician.1.d:0 "Utilisez votre pouvoir politique pour donner à l'un de nos politiciens un poste au sein du gouvernement"
+	spawn_ig_politician.1.f:0 "Utilisez votre pouvoir politique pour donner à l'un de nos politiciens un poste au sein du gouvernement"
+	spawn_ig_politician.1.a:0 "Utilisez votre pouvoir politique pour donner à l'un de nos politiciens un poste au sein du gouvernement"
+			
+
+
+
+
+

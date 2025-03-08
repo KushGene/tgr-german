@@ -1,0 +1,86 @@
+﻿l_english:
+
+  #################### CHARACTER INTERACTION: TOOLTIPS ON INTERACTION ####################
+  #grant_leadership_to_politician:0 "Grant Party Leadership"
+  resign_from_office_politician:0 "Resign Party Leadership"  
+  resign_from_office_politician_tt: "This character will abandon the party leadership, leaving another character to lead the interest group. The ideology of the new leader will depend on the pressure the interest group receives from Political Movements."  
+  politician_progaganda_campaign_trait_tt: "If this Character already owns ones of the traits from this event, he will not get any extra traits."  
+
+  politician_progaganda_campaign_pro: "Start a Propaganda Campaign"  
+  politician_progaganda_campaign_against: "Start a Discredit Campaign"
+  politician_progaganda_campaign_agitator_activism: "Organize a Demonstration"    
+ 
+  politician_progaganda_campaign_pro_tt: "Start a propaganda campaign to increase the popularity of this character, depending on the efforts of the campaign, the outcome will be more or less impactful. Furthermore, the Character can have chances to gain some Traits."  
+  politician_progaganda_campaign_against_tt: "Start a propaganda campaign to discredit this character, depending on the efforts of the campaign, the outcome will be more or less impactful."  
+  politician_progaganda_campaign_agitator_activism_tt: "Organizes a political demonstration in the squares of the main cities, increasing the support and activism of the movement."
+  
+  #################### MODIFIERS ####################
+
+  great_revision_politician_progaganda_campaign_pro:0 "Propaganda Campaign"
+  great_revision_politician_progaganda_campaign_against:0 "Discrediting Campaign"
+  
+  great_revision_politician_progaganda_campaign_pro_success_1:0 "Orator of the Masses"
+  great_revision_politician_progaganda_campaign_pro_success_2:0 "Political Operator"
+  great_revision_politician_progaganda_campaign_pro_success_3:0 "Conflicting Speech"
+  great_revision_politician_progaganda_campaign_pro_success_legittimacy:0 "Abuse of Office Powers"
+  
+  great_revision_politician_progaganda_campaign_against_success_1:0 "Character Discredited"
+  great_revision_politician_progaganda_campaign_against_success_2:0 "Mud Machine"
+  
+  great_revision_politician_progaganda_campaign_agitator_activism:0 "Political Activist"
+  
+  politician_progaganda_campaign.1:0 "The Propaganda Campaign"
+  politician_progaganda_campaign.1.t:0 "The Propaganda Campaign"
+  politician_progaganda_campaign.1.desc:0 "The Propaganda Campaign"
+  politician_progaganda_campaign.1.d:0 "The Campaign to increase the popularity of [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] is started. Now we have to choose whether to pursue a proactive path, or a more aggressive strategy."
+  politician_progaganda_campaign.1.f:0 "'That's exactly it, my friend. I say it here and I don't deny it here, [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] is the politician we need, the right man at the right time!'\n\n\"Isn't he a little too exuberant to take the reins of the party?'\n\n\'Why on earth do you say that?'\n\n\'Friend... the other day he literally began by saying: I will lead MY party to greatness, leading our nation... for the good of the Empire... er, I meant, of the Republic..'"
+  politician_progaganda_campaign.1.a:0 "Let [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] use his dialectic to speak to the crowd."
+  politician_progaganda_campaign.1.b:0 "[SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] must focus his speech on the problems that afflict our country."
+  politician_progaganda_campaign.1.c:0 "Use the speech of [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] to strengthen the influence of our party in government, even if this were to be seen as an act of force."
+ 
+  
+  politician_progaganda_campaign.2:0 "The Discredit Campaign"
+  politician_progaganda_campaign.2.t:0 "The Discredit Campaign"
+  politician_progaganda_campaign.2.desc:0 "The Discredit Campaign"
+  politician_progaganda_campaign.2.d:0 "[SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] has become too uncomfortable a character for our country, the time has come to ensure that he no longer has such a following."
+  politician_progaganda_campaign.2.f:0 "Mud, Mud, Mud, I LOVE Mud, especially when I throw it in people's faces."
+  politician_progaganda_campaign.2.a:0 "Let's start a smear campaign against [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName]."
+  politician_progaganda_campaign.2.b:0 "It's not enough! Make sure that even his Mother doesn't want to have anything to do with him anymore!"
+  
+  politician_progaganda_campaign.3:0 "The Revolutionary Campaign"
+  politician_progaganda_campaign.3.t:0 "The Revolutionary Campaign"
+  politician_progaganda_campaign.3.desc:0 "The Revolutionary Campaign"
+  politician_progaganda_campaign.3.d:0 "[SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] agitated the masses against the established order, hoping to change the political direction of the Country."
+  politician_progaganda_campaign.3.f:0 "'What is all that crowd gathered under the government building?'\n\n\'Let it go, it will be a new parade for the eve of the national holiday, we have more important things to think about'\n\n\'Well, it will be.. But all those red flags don't convince me...'"
+  politician_progaganda_campaign.3.a:0 "Let's make sure [SCOPE.sCharacter('great_revision_propaganda_leader').GetFullName] gets enough support to file a petition to the Government."
+  politician_progaganda_campaign.3.b:0 "This is no time for moderation, the revolution is coming! and we will lead it!"
+
+  #################### CHARACTER TRAITS ####################
+ mass_orator: "Mass Orator"
+ mass_orator_desc: "This character is capable of asserting his ideas during political rallies."  
+  
+ propagandist: "Propagandist"
+ propagandist_desc: "This character is known for his ability to influence the masses."  
+
+ statesman: "Stateman"
+ statesman_desc: "This character is recognized as a powerful and influential statesman."  
+
+ discredited: "Discredited"
+ discredited_desc: "This character has been discredited by his opponents, reducing his political influence."  
+
+ mud_machine: "Mud Machine"
+ mud_machine_desc: "This character was hit by the mud machine, which inevitably ruined his reputation."  
+ 
+ social_agitator: "Social Agitator"
+ social_agitator_desc: "This character is good to agitate the masses against the established power." 
+ 
+ revolutionary_agitator: "Revolutionary Agitator"
+ revolutionary_agitator_desc: "this character carries on his revolutionary struggle against the system." 
+  
+  
+  
+
+
+
+
+
