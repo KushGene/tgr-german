@@ -1,0 +1,76 @@
+﻿l_german:
+
+  #################### DIPLOMATIC PACT ####################
+  migration_agreement: "Migrationsabkommen"
+  migration_agreement_desc: "Ein [concept_diplomatic_pact], bei dem sich zwei Länder darauf einigen, die Bewegung von Menschen zwischen beiden Nationen zu erleichtern und zu fördern. Das Land, das neue Bevölkerung anziehen möchte, zahlt dem abgebenden Land eine Summe Geldes als Ausgleich für das Entsenden der neuen Migranten."
+
+  migration_agreement_action_propose_name: "Migrationsabkommen vorschlagen"
+  migration_agreement_action_break_name: "Migrationsabkommen aufkündigen"
+
+  migration_agreement_proposal_accepted_name: "Migrationsabkommen akzeptiert"
+  migration_agreement_proposal_accepted_desc: "Unser Vorschlag, ein Migrationsabkommen abzuschließen, wurde angenommen."
+  migration_agreement_proposal_notification_name: "Migrationsabkommen"
+  migration_agreement_proposal_notification_desc: "[INITIATOR_COUNTRY.GetName] bietet unserem [concept_country] ein #bold Migrationsabkommen#! an."
+
+  concept_migration_agreement: "Migrationsabkommen"
+
+  concept_migration_agreement:0 "Migrationsabkommen"
+  concept_migration_agreements:0 "Migrationsabkommen"
+  concept_migration_agreement_short:0 "Abkommen"
+  concept_migration_agreements_short:0 "Abkommen"
+  concept_migration_agreement_desc:3 "Ein [concept_diplomatic_pact], bei dem sich zwei Länder darauf einigen, die Bewegung von Menschen zwischen beiden Nationen zu erleichtern und zu fördern. Das Land, das neue Bevölkerung anziehen möchte, zahlt dem abgebenden Land eine Summe Geldes als Ausgleich für das Entsenden der neuen Migranten."
+  concept_migration_agreement_desc:1 "Ein [concept_diplomatic_pact], bei dem sich zwei Länder darauf einigen, die Bewegung von Menschen zwischen beiden Nationen zu erleichtern und zu fördern. Das Land, das neue Bevölkerung anziehen möchte, zahlt dem abgebenden Land eine Summe Geldes als Ausgleich für das Entsenden der neuen Migranten."
+
+  DIPLOMATIC_ACCEPTANCE_NUM_MIGRATION_AGREEMENT:1 "Anzahl der [SCOPE.GetRootScope.GetCountry.GetAdjectiveNoFormatting] [Concept('concept_migration_agreement','$concept_migration_agreement$')]"
+  num_diplomatic_pacts_less_than:1 "Anzahl an #bold Migrationsabkommen#! größer als #bold 1#!"
+
+  #################### MODIFIER ####################
+  migration_agreement_modifier_pull: "Migrationsabkommen: Anziehende Partei"
+  migration_agreement_modifier_push: "Migrationsabkommen: Entsendende Partei"
+  migration_agreement_delay_modifier: "Verzögerung bei der Aufnahme von Migranten"
+  migration_agreement_modifier_attraction_state: "Ankommende Migranten"
+
+  #################### TOOLTIP ####################
+  migration_agreement_10_tt: "Jedes Jahr besteht die Möglichkeit, eine Massenmigration aus jedem Land zu starten, mit dem ein Migrationsabkommen besteht."
+  migration_agreement_1_tt: "Die Aufnahme wird um ein Jahr verzögert, was sich entsprechend auf unser Prestige auswirkt."
+  migration_agreement_2_tt:1 "Die [GetLawGroup('lawgroup_migration').GetName] und [GetLawGroup('lawgroup_citizenship').GetName] [Concept('concept_law', '$concept_laws$')] des $concept_country$ müssen $concept_migration$ erlauben."
+  migration_agreement_3_tt:1 "Wenn hingegen keine neue Migration durch dieses Ereignis ausgelöst wird, bedeutet dies, dass die aktuellen [Concept('concept_law', '$concept_laws$')] die Bewegung dieser bestimmten Pops nicht zulassen, insbesondere [GetLawGroup('lawgroup_migration').GetName]."
+  migration_agreement_4_tt:1 "Wenn die Massenmigration beginnt, aber keine neuen Einwanderer eintreffen, bedeutet dies, dass die Migrationsanziehung in dem Staat, in dem die Massenmigration beginnt, nicht ausreicht. Du kannst sie mit dem [GetDecreeType('decree_greener_grass_campaign').GetName] [concept_decree] erhöhen."
+
+  #################### EVENTS ####################
+
+  migration_agreement.10:0 "Das Migrationsabkommen"
+  migration_agreement.10.t:0 "Das Migrationsabkommen"
+  migration_agreement.10.desc:0 "Das Migrationsabkommen"
+  migration_agreement.10.d:0 "Wir haben das Abkommen zur Migration unterzeichnet. Wir erwarten, dass innerhalb eines Jahres neue Gruppen von Menschen in unser Land ziehen werden."
+  migration_agreement.10.f:0 "'Genau! Wenn wir es fördern, dass billige Arbeitskräfte aus irgendeinem entlegenen, scheinbar unwichtigen Land herkommen, können wir sie einstellen und bei den Löhnen sparen!\n\nIch glaube nicht, dass wir das alleine schaffen. Wir müssen sichergehen, dass dieses Projekt landesweit Fuß fasst.\n\nKeine Sorge, ich kenne die richtigen Leute im Ministerium. Überlass das nur mir.'"
+  migration_agreement.10.a:0 "Wir haben die Menschen gefunden, jetzt brauchen wir Investoren!"
+  migration_agreement.10.b:0 "Option B."
+  migration_agreement.10.c:0 "Option C."
+
+  migration_agreement.11:0 "Das Ende des Migrationsabkommens"
+  migration_agreement.11.t:0 "Das Ende des Migrationsabkommens"
+  migration_agreement.11.desc:0 "Das Ende des Migrationsabkommens"
+  migration_agreement.11.d:0 "Das vereinbarte Migrationsabkommen wurde nicht verlängert. Unsere Länder werden nicht länger die bisherigen Regelungen der Migrationspolitik genießen."
+  migration_agreement.11.f:0 "'Am Ende ist es wie in der Liebe, beim Glück und anderen schönen Dingen: Alles nimmt irgendwann ein Ende... egal... zurück an die Arbeit.'"
+  migration_agreement.11.a:0 "Wie schade..."
+  migration_agreement.11.b:0 "Option B."
+  migration_agreement.11.c:0 "Option C."
+
+  migration_agreement_campaign.1:0 "Die Ankunft der Migranten"
+  migration_agreement_campaign.1.t:0 "Die Ankunft der Migranten"
+  migration_agreement_campaign.1.desc:0 "Die Ankunft der Migranten"
+  migration_agreement_campaign.1.d:0 "Nachdem wir dieses vorteilhafte Abkommen mit [SCOPE.sCountry('migration_agreement_country_event_2').GetName] unterzeichnet haben, ist nun die Zeit gekommen, die Vorbereitungen für die Aufnahme neuer Migranten zu treffen."
+  migration_agreement_campaign.1.f:0 "'Die Migration großer Menschenmengen ist keine leichte Angelegenheit, mein Freund. Es müssen neue Unterkünfte gebaut werden. Jede Person muss erfasst werden, und vor allem sollte man auf interne Unruhen achten, die entstehen könnten. Hoffen wir, dass alles gut verläuft.'"
+  migration_agreement_campaign.1.a:0 "Stellt die Mittel für die Aufnahme bereit!"
+  migration_agreement_campaign.1.b:0 "Wir sind noch nicht bereit, wir müssen die Ankunft der Migranten verzögern."
+  migration_agreement_campaign.1.c:0 "Option C."
+
+  migration_agreement_campaign.2:0 "Neue Nachbarn, Arbeiter und Steuern!"
+  migration_agreement_campaign.2.t:0 "Neue Nachbarn, Arbeiter und Steuern!"
+  migration_agreement_campaign.2.desc:0 "Neue Nachbarn, Arbeiter und Steuern!"
+  migration_agreement_campaign.2.d:0 "Obwohl sie kostspielig war, hat die neue Kampagne Früchte getragen. Gruppen von Menschen aus [SCOPE.sCountry('migration_country').GetName] überqueren unsere Grenzen und sind bereit, sich in unserem Land niederzulassen. Ein großer Erfolg!"
+  migration_agreement_campaign.2.f:0 "Neue Leute sind angekommen, und eine neue Fabrik hat geöffnet. Alles lief nach Plan! Danke unserem Kontakt im Ministerium von unserer Seite. Und jetzt... packen wir es an!"
+  migration_agreement_campaign.2.a:0 "Willkommen, Freunde!"
+  migration_agreement_campaign.2.b:0 "Option B."
+  migration_agreement_campaign.2.c:0 "Option C."
