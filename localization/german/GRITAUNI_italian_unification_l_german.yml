@@ -39,6 +39,7 @@
   risorgimento_war_of_the_kaiser: "will sich nicht am Krieg des Kaisers beteiligen"
   risorgimento_war_of_the_kaiser_prussia: "will Italien im Krieg des Kaisers unterstützen"
 
+
   ########################### ITALIAN UNIFICATION: BUTTONS #######################################
   je_risorgimento_sardinia_path_button_event_1: "Die Emilianische Handelsliga"
   je_risorgimento_sardinia_path_button_event_1_desc: "Die Herzogtümer Modena, Parma und Lucca streben seit Langem nach Unabhängigkeit vom österreichischen Joch. Wir müssen Ressourcen und Einfluss in ihrem Gebiet investieren, um sie in unseren Einflussbereich zu bringen."
@@ -69,6 +70,7 @@
 
   je_risorgimento_sardinia_path_button_event_10: "Krieg des Kaisers"
   je_risorgimento_sardinia_path_button_event_10_desc: "Die Eroberung Lombardo-Venetiens durch das Königreich Sardinien-Piemont war ein wichtiger Meilenstein der italienischen Einigung. Nach einem Bündnis mit Frankreich führten Viktor Emanuel II. und Premierminister Cavour den Zweiten Unabhängigkeitskrieg gegen die österreichische Kontrolle über diese Region. Wichtige Siege bei Magenta und Solferino zwangen Österreich, die Lombardei abzutreten, während Venetien unter österreichischer Herrschaft blieb. Dieser Erfolg beflügelte die italienische Nationalbewegung und demonstrierte den wachsenden Einfluss Sardiniens auf der Halbinsel. 1866 schloss sich Italien im Deutschen Krieg Preußen an. Obwohl italienische Truppen Niederlagen erlitten, zwang Preußens Sieg Österreich, Venetien an Italien abzutreten."
+
 
   ########################### ITALIAN UNIFICATION: EVENTS #######################################
   great_revision_italian_unification.10:0 "Flüstern des Risorgimento"

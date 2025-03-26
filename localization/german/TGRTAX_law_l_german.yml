@@ -1,0 +1,15 @@
+﻿l_german:
+  law_consumption_based_taxation:0 "Verbrauchsbasierte Besteuerung"
+  law_consumption_based_taxation_desc:0 "Ein Steuersystem, bei dem keine direkten Einkommens- oder Kopfsteuern erhoben werden. Stattdessen werden die Staatseinnahmen durch die Besteuerung des Warenverbrauchs erzielt.\n\n#red;bold;Freigeschaltete Steuerstufen#!:\n\#yellow; Verbrauchssteuer#!  #bold; ->#!  #blue; 100%#!\n\#yellow; Grundsteuer#!  #bold; ->#!  #blue; 0£#!\n\#yellow; Kopfsteuer#!  #bold; ->#!  #blue; 0£#!\n\#yellow; Einkommensteuersatz#!  #bold; ->#!  #blue; 0%#!\n\#yellow; Dividendensteuer#!  #bold; ->#!  #blue; 0%#!"
+
+  law_land_based_taxation:0 "Grundbesitzbesteuerung"
+  law_land_based_taxation_desc:0 "Eine traditionelle Form der Besteuerung von Grundbesitz, die hauptsächlich von der bäuerlichen Bevölkerung getragen wird.\n\n#red;bold;Freigeschaltete Steuerstufen#!:\n\#yellow; Verbrauchssteuer#!  #bold; ->#!  #blue; 75%#!\n\#yellow; Grundsteuer#!  #bold; ->#!  #blue; 3£#!\n\#yellow; Kopfsteuer#!  #bold; ->#!  #blue; 0£#!\n\#yellow; Einkommensteuersatz#!  #bold; ->#!  #blue; 5%#!\n\#yellow; Dividendensteuer#!  #bold; ->#!  #blue; 0%#!"
+
+  law_per_capita_based_taxation:0 "Kopfsteuerbasierte Besteuerung"
+  law_per_capita_based_taxation_desc:0 "Ein Steuersystem, das vor allem ärmere Bevölkerungsschichten belastet – durch eine Kombination aus Kopfsteuer und Einkommensteuer.\n\n#red;bold;Freigeschaltete Steuerstufen#!:\n\#yellow; Verbrauchssteuer#!  #bold; ->#!  #blue; 65%#!\n\#yellow; Grundsteuer#!  #bold; ->#!  #blue; 2£#!\n\#yellow; Kopfsteuer#!  #bold; ->#!  #blue; 3£#!\n\#yellow; Einkommensteuersatz#!  #bold; ->#!  #blue; 25%#!\n\#yellow; Dividendensteuer#!  #bold; ->#!  #blue; 0%#!"
+
+  law_proportional_taxation:0 "Proportionale Besteuerung"
+  law_proportional_taxation_desc:0 "Ein überwiegend einkommensbasiertes Steuersystem, bei dem alle etwa denselben Anteil ihres Einkommens an den Staat abgeben sollen.\n\n#red;bold;Freigeschaltete Steuerstufen#!:\n\#yellow; Verbrauchssteuer#!  #bold; ->#!  #blue; 55%#!\n\#yellow; Grundsteuer#!  #bold; ->#!  #blue; 1£#!\n\#yellow; Kopfsteuer#!  #bold; ->#!  #blue; 2£#!\n\#yellow; Einkommensteuersatz#!  #bold; ->#!  #blue; 55%#!\n\#yellow; Dividendensteuer#!  #bold; ->#!  #blue; 35%#!"
+
+  law_graduated_taxation:0 "Progressive Besteuerung"
+  law_graduated_taxation_desc:0 "Ein Steuersystem, das die Hauptlast auf wohlhabende Bevölkerungsschichten verlagert – vor allem durch hohe Dividendensteuern.\n\n#red;bold;Freigeschaltete Steuerstufen#!:\n\#yellow; Verbrauchssteuer#!  #bold; ->#!  #blue; 50%#!\n\#yellow; Grundsteuer#!  #bold; ->#!  #blue; 0£#!\n\#yellow; Kopfsteuer#!  #bold; ->#!  #blue; 1£#!\n\#yellow; Einkommensteuersatz#!  #bold; ->#!  #blue; 50%#!\n\#yellow; Dividendensteuer#!  #bold; ->#!  #blue; 60%#!"

@@ -264,6 +264,8 @@
   institution_police:0 "Ministerium für öffentliche Sicherheit"
   institution_health_system:0 "Gesundheitsministerium"
   institution_home_affairs:0 "Innenministerium"
+  institution_environment:0 "Umweltministerium"
+  institution_defense:0 "Verteidigungsministerium"
 
   ########################## LAWS GROUP #########################
   lawgroup_tax_department: "Finanzreform"
@@ -372,6 +374,7 @@
   foreign_policy_diplomatic_embassies_desc: "In der modernen Ära, in der wir leben, ist es wichtig, gute Beziehungen zu anderen Ländern aufzubauen, egal ob nah oder fern, um das richtige Gleichgewicht auf dem globalen Schachbrett zu sichern."
   foreign_policy_authoritarian_representation_desc: "Unser Land wurde in den globalen Angelegenheiten lange Zeit übergangen. Wir müssen unsere Regierung und unseren Ruf stärken, um eine bedeutende Position unter den Großmächten einzunehmen."
   foreign_policy_military_expansionism_desc: "Es spielt keine Rolle, wie einflussreich oder wohlhabend ein Land ist: Armeen bleiben der dominierende Faktor in der Weltpolitik. Wenn wir unser Militär stärken, werden wir im In- und Ausland gefürchtet und respektiert sein."
+  #foreign_policy_foreign_investments_desc: "In einer zunehmend globalisierten Welt ist es von grundlegender Bedeutung, möglichst viele wirtschaftliche und kommerzielle Verbindungen zu anderen Ländern aufzubauen. Wirtschaftlicher Einfluss bedeutet auch politischer Einfluss – doch wer sich der Welt öffnet, macht sich auch angreifbar für äußere Mächte."
   foreign_policy_foreign_investments_desc: "Wir können unsere Wirtschaft nicht allein ausbauen. Wir müssen ausländische Investoren dazu bewegen, ihr Kapital in unser Land zu bringen. Auf diese Weise stellen wir ein kontinuierliches und stabiles Wachstum sicher, wobei wir uns jedoch auch der Gefahr externer Großmächte öffnen."
   economic_incentives_no_focus_primary_desc: "Wir setzen keine spezifischen Anreize für unsere Wirtschaft."
   economic_incentives_no_focus_secondary_desc: "Wir setzen keine spezifischen Anreize für unsere Wirtschaft."

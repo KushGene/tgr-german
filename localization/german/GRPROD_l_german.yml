@@ -1,0 +1,40 @@
+﻿l_german:
+
+  ########################### TGR PRODUCTION & TRADE: MODIFIERS  #######################################
+  ai_production_event_modifier_import:0 "Staatliche Subventionen für Importe"
+  ai_production_event_modifier_export:0 "Staatliche Subventionen für Exporte"
+  small_subsidies_import:0 "Kleiner Anreiz für Importe"
+  big_subsidies_import:0 "Großer Anreiz für Importe"
+  small_subsidies_export:0 "Kleiner Anreiz für Exporte"
+  big_subsidies_export:0 "Großer Anreiz für Exporte"
+  #ai_production_event_modifier_desc:0 "Subventionen, die von der Regierung als Entschädigung für entgangene Gewinne der Handelszentren gezahlt werden"
+  
+  ########################### TGR PRODUCTION & TRADE: TOOLTIPS  #######################################
+  remove_subsidies_import_tt:0 "Die Subventionen für den Import werden entfernt"
+  remove_subsidies_export_tt:0 "Die Subventionen für den Export werden entfernt"
+  
+  ########################### TGR PRODUCTION & TRADE: JE  #######################################
+  tgr_trade_subsidies:0 "Handelssubventionen"
+  tgr_trade_subsidies_status:0 "Als Regierung können wir [GetBuildingType('building_trade_center').GetName] finanzielle Anreize bieten, damit sie weiterhin Handel treiben, selbst wenn sich die Handelsrouten als unrentabel erweisen. Dies sichert unsere #red;bold; Lieferkette#! oder unsere #red;bold; Exportwettbewerbsfähigkeit#!."
+  tgr_trade_subsidies_reason:0 "Der Handel ist das Lebenselixier der Wirtschaft, und manchmal ist Gewinn nicht das einzige Ziel. Es gibt viele Interessen am Handel mit verschiedenen Ländern, sei es aus strategischen Gründen, um gute Beziehungen zu sichern oder einfach, um einen Verbündeten bzw. Handelspartner zu versorgen.\n\nDie KI wird ihre Handelspolitik gemäß dem aktuell geltenden Gesetz festlegen.\nFalls #blue;bold; KI#! [GetLawType('law_protectionism').GetName] [concept_law] in Kraft hat, wird sie #blue;bold; $je_tgr_small_subsidies_import_button$#! und #blue;bold; $je_tgr_small_subsidies_export_button$#! festlegen.\nFalls #blue;bold; KI#! stattdessen [GetLawType('law_mercantilism').GetName] [concept_law] oder [GetLawType('law_free_trade').GetName] [concept_law] in Kraft hat, wird sie nur #blue;bold; $je_tgr_big_subsidies_export_button$#! festlegen."
+  
+  ########################### TGR PRODUCTION & TRADE: BUTTONS  #######################################
+  je_tgr_no_subsidies_import_button:0 "Keine Importsubventionen"
+  je_tgr_no_subsidies_export_button:0 "Keine Exportsubventionen"
+  je_tgr_small_subsidies_import_button:0 "Kleine Importsubventionen"
+  je_tgr_small_subsidies_export_button:0 "Kleine Exportsubventionen"
+  je_tgr_big_subsidies_import_button:0 "Große Importsubventionen"
+  je_tgr_big_subsidies_export_button:0 "Große Exportsubventionen"
+  
+  je_tgr_no_subsidies_import_button_name:0 "Keine Importsubventionen"
+  je_tgr_no_subsidies_import_button_desc:0 ""
+  je_tgr_no_subsidies_export_button_name:0 "Keine Exportsubventionen"
+  je_tgr_no_subsidies_export_button_desc:0 ""
+  je_tgr_small_subsidies_import_button_name:0 "Kleine Importsubventionen"
+  je_tgr_small_subsidies_import_button_desc:0 ""
+  je_tgr_small_subsidies_export_button_name:0 "Kleine Exportsubventionen"
+  je_tgr_small_subsidies_export_button_desc:0 ""
+  je_tgr_big_subsidies_import_button_name:0 "Große Importsubventionen"
+  je_tgr_big_subsidies_import_button_desc:0 ""
+  je_tgr_big_subsidies_export_button_name:0 "Große Exportsubventionen"
+  je_tgr_big_subsidies_export_button_desc:0 ""

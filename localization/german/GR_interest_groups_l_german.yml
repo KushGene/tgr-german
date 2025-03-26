@@ -14,6 +14,7 @@
   APPOINTED_BUREAUCRATS_LAW: "[GetLawType('law_appointed_bureaucrats').GetName] [concept_law]"
 
 
+
   #################### IG ATTRAKTION: TECHNOLOGIEN ####################
   YES_EGALITARIANISM:0 "Die [concept_technology] #v $labor_movement$#! wurde freigeschaltet."
   YES_LABOR_MOVEMENT:0 "Die [concept_technology] #v $labor_movement$#! wurde freigeschaltet."

@@ -1,0 +1,6 @@
+﻿l_german:
+  REDUCE_TAXATION_TT: "Steuereinnahmen auf $BUDGET_TAXATION_LEVEL$ senken\n\n$DECREASE_TAXATION_INSTRUCTIONS$"
+  INCREASE_TAXATION_TT: "Steuereinnahmen auf $BUDGET_TAXATION_LEVEL$ erhöhen\n\n$INCREASE_TAXATION_INSTRUCTIONS$"
+  CURRENT_TAXATION_TT: "Aktueller Steuerprozentsatz"
+  INCREASE_TAXATION_INSTRUCTIONS: "#instruction Klicken#! zum #v Erhöhen um 1 %#!, #i $SHORTCUT_KEY_MOD_shift$Klick#! für #v 5 %#!, #i $SHORTCUT_KEY_MOD_ctrl$Klick#! für #v 10 %#!\n"
+  DECREASE_TAXATION_INSTRUCTIONS: "#instruction Klicken#! zum #v Senken um 1 %#!, #i $SHORTCUT_KEY_MOD_shift$Klick#! für #v 5 %#!, #i $SHORTCUT_KEY_MOD_ctrl$Klick#! für #v 10 %#!\n"

@@ -1,0 +1,6 @@
+﻿l_german:
+  tgr_land_tax: "Grundsteuer"
+  tgr_per_capita_tax: "Kopfsteuer"
+  tgr_consumption_tax: "Verbrauchssteuer"
+  tgr_income_tax: "Einkommensteuersatz"
+  tgr_dividends_tax: "Dividendensteuer"
